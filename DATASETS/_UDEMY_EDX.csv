@@ -128,7 +128,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 637430,Learn the basics of preparing accounting statements,True,20,1951,30,20,Intermediate Level,0.55,2015-10-13,Business Finance,English
 236080,Elliott Wave -Forex Trading With The Elliott Wave Theory,True,90,4022,35,14,Expert Level,1.0,2016-12-15,Business Finance,English
 777444,Corporate Finance - A Brief Introduction,False,0,11724,649,17,Beginner Level,1.5,2016-03-04,Business Finance,English
-474238,Excel functions to analyze and visualize data,True,20,2283,54,16,Intermediate Level,2.0,2015-04-20,Business Finance,Italian
+474238,Excel functions to analyze and visualize data,True,20,2283,54,16,Intermediate Level,2.0,2015-04-20,Business Finance,English
 1245244,Building Financial Statements in Excel,True,35,1181,1,18,Beginner Level,1.0,2017-06-29,Business Finance,English
 1051570,Transfer Pricing A Complete Analysis,True,50,1852,3,14,All Levels,2.5,2016-12-28,Business Finance,English
 262370,Accounting: Get Hired Without Work Experience,True,100,4661,187,20,All Levels,1.0,2014-09-01,Business Finance,English
@@ -281,7 +281,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 821108,المحاسبة للإداريين و غير المحاسبين,True,20,9,3,17,Beginner Level,0.7166666666666667,2016-04-23,Business Finance,Arabic
 863998,株式投資で本当のファンダメンタル分析ができるようになる,True,20,91,7,30,All Levels,2.0,2016-06-21,Business Finance,Japanese
 822926,Curso de Trading práctico basado en casos reales,True,20,44,6,55,All Levels,10.0,2016-08-29,Business Finance,Spanish
-666254,Curso Avanzado de Trading,True,125,106,11,100,All Levels,20.5,2015-11-28,Business Finance,Spanish
+666254,Curso Avanzado de Trading,True,125,106,11,100,All Levels,20.5,2015-11-28,Business Finance,Portuguese
 421546,สอนเทรดไบนารี่ อ๊อฟชั่นอย่างง่าย,False,0,2079,258,25,All Levels,2.0,2015-02-15,Business Finance,English
 518886,MQL4 Tutorial Golden Goose,True,20,135,5,12,Beginner Level,1.5,2015-06-07,Business Finance,English
 868128,Análise de Concessão de Crédito,True,20,31,11,20,All Levels,10.5,2016-06-29,Business Finance,Portuguese
@@ -363,7 +363,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1194426,The Binary Institute - Introductory Course in Binary Options,False,0,1121,12,6,All Levels,1.0,2017-04-27,Business Finance,English
 538540,Forex Trading vs Option Trading,True,95,1776,14,29,All Levels,2.5,2015-07-08,Business Finance,English
 406922,How to Invest in Stocks + Billionaire Investing Tips,True,40,1643,18,19,All Levels,2.0,2015-07-01,Business Finance,English
-743914,Value Investing For Beginners,True,100,801,48,25,Beginner Level,2.5,2016-05-11,Business Finance,Deutsch
+743914,Value Investing For Beginners,True,100,801,48,25,Beginner Level,2.5,2016-05-11,Business Finance,English
 419308,TRADING TACTICS,True,145,951,25,62,All Levels,6.0,2015-02-13,Business Finance,English
 542028,MQL4 Tutorial Bootcamp - Trading Robot Coding in Metatrader4,True,30,1278,33,23,Beginner Level,0.7166666666666667,2015-07-02,Business Finance,English
 482534,Ultimate Retirement: Build Your Own Dynamic Retirement Plan,True,50,1184,15,37,All Levels,6.0,2015-07-28,Business Finance,English
@@ -418,7 +418,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1208148,Coaching Course:Investment Analysis for your clients,True,200,1,0,6,Intermediate Level,0.5666666666666667,2017-06-23,Business Finance,English
 24815,Harnessing the Power of Growth Stocks,True,50,29,2,7,Intermediate Level,2.0,2012-10-31,Business Finance,English
 736836,The Investment Banking Recruitment Series,True,40,17,6,26,All Levels,3.5,2016-02-06,Business Finance,English
-462474,Business Banking 101,True,25,132,3,14,All Levels,1.5,2015-04-06,Business Finance,English
+462474,Business Banking 101,True,25,132,3,14,All Levels,1.5,2015-04-06,Business Finance,Deutsch
 73938,CFA Level I Workshop 2: Financial Reporting & Analysis I ,True,20,126,2,5,All Levels,1.0,2013-08-12,Business Finance,English
 158444,Breakout Patterns Workshop by Pattern Trader,True,60,32,6,15,All Levels,1.5,2016-09-09,Business Finance,English
 577198,Asset Protection Using Offshore Companies,True,20,480,3,21,All Levels,1.0,2015-08-12,Business Finance,English
@@ -438,7 +438,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 587232,Simple Linear Regression Analysis ( A Complete Course ),True,200,811,5,29,All Levels,1.5,2015-08-27,Business Finance,English
 398798,Forex: Learn to Trade Forex and FX Consistently,True,50,956,4,21,All Levels,5.5,2015-01-20,Business Finance,English
 130366,Trading: High-ROI Trading,True,190,126,20,47,Intermediate Level,12.5,2014-02-05,Business Finance,English
-530430,Fundraising 101,True,95,26,4,5,Beginner Level,1.0,2015-06-17,Business Finance,English
+530430,Fundraising 101,True,95,26,4,5,Beginner Level,1.0,2015-06-17,Business Finance,Deutsch
 615204,Professional Bookkeeping & Accounting 2 - Bank Daybook,True,35,91,6,36,All Levels,2.0,2015-11-01,Business Finance,English
 441016,Filing with Companies House UK,True,30,30,5,9,All Levels,1.0,2015-03-08,Business Finance,English
 598722,"Build, Grow, and Protect Your Assets: A Step-by-Step Guide",True,195,226,26,26,All Levels,3.5,2015-09-23,Business Finance,English
@@ -463,7 +463,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1233314,Building a Balanced Scorecard,True,50,0,0,11,Intermediate Level,2.0,2017-07-03,Business Finance,English
 1276182,Options Trading Foundation: Your journey to competency...,True,95,0,0,5,Intermediate Level,1.0,2017-07-05,Business Finance,English
 1187084,Forex how traders beat the markest with little experience,True,100,0,0,16,All Levels,1.0,2017-07-06,Business Finance,English
-1084454,CFA Level 2- Quantitative Methods,True,40,0,0,35,All Levels,5.5,2017-07-02,Business Finance,English
+1084454,CFA Level 2- Quantitative Methods,True,40,0,0,35,All Levels,5.5,2017-07-02,Business Finance,Italian
 885413,Foundations of Investing,True,40,0,0,18,Beginner Level,2.0,2016-07-27,Business Finance,English
 178602,Capital Market Road Map,True,50,495,47,21,All Levels,4.0,2014-03-11,Business Finance,English
 601912,TRADING: 5K CHALLENGE,True,55,375,10,19,Intermediate Level,1.0,2015-09-12,Business Finance,English
@@ -478,7 +478,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 327962,Forex Trading Profitably,True,20,512,13,15,All Levels,0.6666666666666666,2014-11-04,Business Finance,English
 790034,Learn How to Trade Pump and Dumps. 5 Setups Well Explained.,True,50,769,10,18,All Levels,2.0,2016-03-14,Business Finance,English
 400976,Bitcoin Trading 101,True,95,302,6,19,All Levels,2.0,2015-01-29,Business Finance,English
-892446,Visualizing Data,True,40,149,2,63,Intermediate Level,6.5,2016-07-22,Business Finance,Italian
+892446,Visualizing Data,True,40,149,2,63,Intermediate Level,6.5,2016-07-22,Business Finance,English
 322118,IFRS Financial Reporting,True,55,72,9,15,All Levels,3.5,2014-10-24,Business Finance,Spanish
 1029062,Forex Trading System: Correlation EUR/GBP vs GBP/USD,True,50,33,4,26,Intermediate Level,1.0,2016-12-14,Business Finance,English
 1048496,"SAP Crystal Reports:Master-Detail,Cross-Tab,Sub-Reports",True,50,13,1,9,All Levels,2.0,2016-12-26,Business Finance,English
@@ -559,7 +559,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 851288,Smart Trading Techniques for Safe & Consistent Weekly Result,True,100,46,11,24,Intermediate Level,2.5,2016-05-24,Business Finance,English
 363058,Technical Trading and Investing Made Easy,True,40,217,7,27,Intermediate Level,1.5,2014-12-24,Business Finance,English
 700080,Budgeting for Business,True,40,78,22,25,All Levels,2.5,2016-01-11,Business Finance,English
-637452,Complete Guide to Business Loans,True,30,35,4,35,Beginner Level,1.5,2015-12-04,Business Finance,English
+637452,Complete Guide to Business Loans,True,30,35,4,35,Beginner Level,1.5,2015-12-04,Business Finance,French
 360916,Hot Trading Investing Strategy: ETF and Futures,True,50,80,10,13,All Levels,2.5,2014-12-08,Business Finance,English
 375594,Financial Management - A Complete Study,True,190,1941,128,527,All Levels,71.5,2014-12-22,Business Finance,English
 703770,MQL4 Programming for Traders: Build Robust Trading Robots!,True,195,1367,33,74,All Levels,7.0,2016-02-22,Business Finance,English
@@ -590,7 +590,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 591880,1 - Concepts of Statistics For Beginners Step by Step,True,200,273,4,15,Beginner Level,0.5166666666666666,2015-08-30,Business Finance,English
 155616,4. Ordinary Simple Annuities: The Basics,True,20,237,1,17,All Levels,1.5,2014-01-31,Business Finance,English
 1185936,الدروس التعليمية لسوق الفوركس والأسواق المالية الأخرى,False,0,368,3,69,All Levels,20.5,2017-04-25,Business Finance,Arabic
-65802,Financial Risk Manager (FRM) Certification: Level II,True,50,86,7,87,All Levels,47.0,2013-07-24,Business Finance,Italian
+65802,Financial Risk Manager (FRM) Certification: Level II,True,50,86,7,87,All Levels,47.0,2013-07-24,Business Finance,English
 229360,Level 1 2014 CFA® Program – Corporate Finance,True,40,204,1,18,All Levels,3.0,2014-06-21,Business Finance,English
 159388,3. Compound Interest ,True,20,570,2,21,All Levels,2.0,2014-02-11,Business Finance,English
 172298,8. Amortization Schedules,True,20,225,1,5,All Levels,1.0,2014-03-19,Business Finance,English
@@ -738,7 +738,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 595258,Finance for Non-Finance: Learn Quick and Easy,True,20,4158,51,30,Beginner Level,2.5,2016-02-25,Business Finance,English
 1269590,Advanced Options Trading Course,True,40,1252,2,6,Intermediate Level,0.5333333333333333,2017-06-29,Business Finance,English
 611420,Statistics - Measures of Dispersion for CA / CS / CFA exams,True,20,5108,9,13,All Levels,1.0,2015-09-14,Business Finance,English
-941990,Work From Home Online (Part/Full) : Trade Forex 4 Beginners,True,45,2981,23,17,Beginner Level,1.0,2016-10-09,Business Finance,Deutsch
+941990,Work From Home Online (Part/Full) : Trade Forex 4 Beginners,True,45,2981,23,17,Beginner Level,1.0,2016-10-09,Business Finance,English
 1119920,Financial Ratios Using Excel,True,100,1223,14,29,Beginner Level,1.0,2017-03-07,Business Finance,English
 256200,How To Start Trading Penny Stocks In 10 Easy Steps 2017,True,50,7750,58,15,All Levels,1.5,2014-07-17,Business Finance,English
 207166,How to Copy the Best Traders on Etoro,True,90,564,9,41,All Levels,3.5,2014-05-01,Business Finance,English
@@ -806,7 +806,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 386922,Seeing the Big Picture: Understanding Financial Statements,True,50,885,69,14,All Levels,0.7166666666666667,2015-01-07,Business Finance,English
 1023650,Financial Modeling for Professionals in 1 Day!,True,200,226,12,29,Intermediate Level,4.5,2016-12-05,Business Finance,English
 676764,Create Your Own Automated Stock Trading Robot In EXCEL!,True,150,461,45,44,All Levels,5.0,2015-12-09,Business Finance,English
-696342,FOREX: From Zero To Hero,True,150,152,27,26,All Levels,3.0,2017-02-07,Business Finance,Portuguese
+696342,FOREX: From Zero To Hero,True,150,152,27,26,All Levels,3.0,2017-02-07,Business Finance,English
 41145,Learn Call Options and Put Options - Introduction to Options,True,60,1017,74,20,Beginner Level,3.0,2013-02-15,Business Finance,English
 145220,1. Principles of Simple Interest ,True,20,1074,6,13,All Levels,1.0,2014-01-13,Business Finance,English
 868686,Double Entry Bookkeeping,True,50,440,17,10,Beginner Level,1.0,2016-06-15,Business Finance,English
@@ -829,7 +829,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 702138,Bitcoin Investing: The Complete Buy & Hold Strategy,True,25,477,70,41,All Levels,4.0,2016-01-10,Business Finance,English
 130298,Financial Modeling in Excel for Startups,True,50,1334,86,54,Beginner Level,6.0,2014-01-05,Business Finance,English
 709536,Learn to Trade Forex Naked Price Action Big Shadow Trade,False,0,5407,192,11,Intermediate Level,1.0,2016-01-25,Business Finance,English
-706942,Forex Trading For Beginners ,False,0,9483,183,22,Beginner Level,2.0,2016-01-14,Business Finance,English
+706942,Forex Trading For Beginners ,False,0,9483,183,22,Beginner Level,2.0,2016-01-14,Business Finance,Deutsch
 297762,Build a Trading Comps Valuation Model,True,50,1032,60,55,All Levels,7.0,2014-10-01,Business Finance,English
 614472,The Advanced Forex Course for Smart Traders,False,0,8236,144,25,All Levels,5.0,2015-10-09,Business Finance,English
 463834,Cost Accounting Overheads (Professional Course Level),True,20,2383,6,19,All Levels,2.5,2015-03-31,Business Finance,English
@@ -881,7 +881,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1164568,Psicología del trading,True,20,1,1,6,All Levels,0.6,2017-05-04,Business Finance,Spanish
 43291,La costruzione del budget di una proposta comunitaria,True,50,10,1,5,Intermediate Level,1.0,2015-01-30,Business Finance,Italian
 1034560,"Erfolgreich als Signalgeber/in, per Social- und Copytrading",True,60,1,1,33,All Levels,6.0,2016-12-13,Business Finance,Deutsch
-871682,Aprenda  a Investir,True,20,34,4,9,All Levels,8.0,2016-06-30,Business Finance,English
+871682,Aprenda  a Investir,True,20,34,4,9,All Levels,8.0,2016-06-30,Business Finance,Portuguese
 1057040,Teeter-Totter Accounting,True,90,0,0,12,Beginner Level,1.0,2017-02-08,Business Finance,English
 1032648,beginning accounting,True,20,0,0,12,Intermediate Level,0.6333333333333333,2016-12-26,Business Finance,English
 1087466,Stop Creditors from Harassing you and Avoid Bankruptcy,True,20,0,0,7,Beginner Level,0.6166666666666667,2017-02-02,Business Finance,English
@@ -977,11 +977,11 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 532216,Raising Capital for Your Business,True,50,22,5,60,All Levels,2.5,2015-08-03,Business Finance,English
 41973,"Silver, Gold, and Inflation",False,0,5597,76,11,Beginner Level,1.0,2013-02-16,Business Finance,English
 138004,Accounting Concepts For Technocrats,True,20,261,2,35,Beginner Level,2.5,2013-12-26,Business Finance,English
-94532,Beginner Financial Analysis: Invest Like Warren Buffett,True,50,83,4,19,Beginner Level,0.6833333333333333,2014-03-10,Business Finance,Deutsch
+94532,Beginner Financial Analysis: Invest Like Warren Buffett,True,50,83,4,19,Beginner Level,0.6833333333333333,2014-03-10,Business Finance,English
 467238,Advance Technical Analysis,True,50,152,6,14,Expert Level,3.5,2015-04-08,Business Finance,English
 850294,The Everyday Investor: Building Wealth with Venture Capital,True,20,176,2,12,Intermediate Level,2.5,2016-06-07,Business Finance,English
 1110256,QuickBooks Online : Inventory Management For Non-Finance,True,35,8,4,10,All Levels,0.6666666666666666,2017-04-20,Business Finance,English
-439210,Law Matters,True,20,327,1,12,Beginner Level,0.45,2015-03-27,Business Finance,Deutsch
+439210,Law Matters,True,20,327,1,12,Beginner Level,0.45,2015-03-27,Business Finance,English
 597164,Learn to Trade for Profit: Finding Winning Stocks - Chinese,True,95,264,0,79,All Levels,3.0,2015-10-08,Business Finance,English
 773502,Financial Accounting Part 2 - Passing The Class,True,20,15,4,36,Beginner Level,4.5,2017-05-01,Business Finance,English
 262818,Simple Options Trading System,True,35,104,2,16,Intermediate Level,1.5,2014-07-31,Business Finance,English
@@ -1169,7 +1169,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 803028,Optimizing investment to maximise your return,False,0,1696,22,11,All Levels,0.6333333333333333,2016-03-25,Business Finance,English
 985104,Investimento em Ações para Leigos,True,20,201,46,19,Beginner Level,2.5,2016-11-11,Business Finance,Portuguese
 396888,Introducción a la Contabilidad,True,30,1235,31,15,Beginner Level,2.5,2015-01-23,Business Finance,Spanish
-1001010,Forex Trading: Strategia Correlazione EUR/GBP vs GBP/USD,True,50,137,39,27,Intermediate Level,1.5,2016-11-10,Business Finance,English
+1001010,Forex Trading: Strategia Correlazione EUR/GBP vs GBP/USD,True,50,137,39,27,Intermediate Level,1.5,2016-11-10,Business Finance,Italian
 950748,Finanzielle Unabhängigkeit-2 Millionär werden mit Investment,True,20,384,37,18,Intermediate Level,0.7166666666666667,2016-09-12,Business Finance,Deutsch
 1250694,カードゲームでカンタンに理解する！経済とお金のキホン,True,20,103,3,18,Beginner Level,1.0,2017-06-27,Business Finance,Japanese
 932454,Contabilidad rápida y eficaz,True,40,379,60,60,All Levels,2.0,2016-08-18,Business Finance,Spanish
@@ -1192,7 +1192,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 871358,Financial Modeling and Valuation: Complete Beginner to Pro,True,50,249,46,28,All Levels,5.0,2016-06-20,Business Finance,English
 931588,Learn to trade Chart Patterns,True,20,75,8,23,Intermediate Level,2.0,2016-08-17,Business Finance,English
 880202,Anatomy and Figure Drawing for Beginners,True,150,2252,240,111,Beginner Level,21.0,2016-06-20,Graphic Design,English
-1197206,Illustrator CC MasterClass,True,95,462,50,86,All Levels,12.0,2017-05-02,Graphic Design,English
+1197206,Illustrator CC MasterClass,True,95,462,50,86,All Levels,12.0,2017-05-02,Graphic Design,Italian
 1117796,Typographic Logo Design in Illustrator - Beginners & Beyond,True,150,1720,40,27,All Levels,1.5,2017-02-23,Graphic Design,English
 1219520,Adobe Illustrator T-Shirt Design for Merch by Amazon,True,20,390,44,15,All Levels,1.0,2017-06-13,Graphic Design,English
 595876,Logo Design in Adobe Illustrator - for Beginners & Beyond,True,200,4297,337,110,All Levels,7.5,2015-10-01,Graphic Design,English
@@ -1252,7 +1252,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1196852,Photoshop: How to create stunning collages,True,20,2044,17,15,Beginner Level,1.5,2017-05-09,Graphic Design,English
 1149656,Mastering advance Photoshop,True,20,5787,40,21,Intermediate Level,2.0,2017-04-27,Graphic Design,English
 385462,Logo Designing for Your Business in an Hour,True,20,25277,311,16,All Levels,1.0,2015-01-05,Graphic Design,English
-1094930,DIY Design Professional Web Banners in Photoshop 4 Beginners,True,200,6944,30,24,Beginner Level,1.0,2017-02-01,Graphic Design,English
+1094930,DIY Design Professional Web Banners in Photoshop 4 Beginners,True,200,6944,30,24,Beginner Level,1.0,2017-02-01,Graphic Design,Deutsch
 561188,Photoshop CC for Beginners - A Comprehensive Crash Course,True,200,6028,205,20,Beginner Level,2.5,2015-07-29,Graphic Design,English
 600486,Teoria Basica del Arte. Como Pintar Ilustraciones Digitales,True,20,5104,437,26,Beginner Level,1.0,2015-09-08,Graphic Design,Italian
 501140,Illustrator CC para novatos: ¡desde cero hasta experto! ,True,150,2476,466,96,All Levels,11.0,2015-12-29,Graphic Design,Portuguese
@@ -1285,7 +1285,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 17349,Figure Drawing From Life Using The Reilly Technique.,False,0,47811,1041,22,All Levels,2.5,2012-05-09,Graphic Design,English
 93484,Drawing Cartoony Characters,True,20,1564,103,9,Beginner Level,2.0,2013-10-09,Graphic Design,English
 927186,Learn Blender 3D  - The introduction course,True,100,739,12,15,Beginner Level,1.5,2016-08-19,Graphic Design,English
-628440,Inkscape For Beginners 2016/2017,True,40,1029,52,26,All Levels,4.0,2016-09-26,Graphic Design,English
+628440,Inkscape For Beginners 2016/2017,True,40,1029,52,26,All Levels,4.0,2016-09-26,Graphic Design,Deutsch
 1047508,Make yourself a Santa Claus: Photoshop Manipulation,False,0,2665,20,8,All Levels,0.5666666666666667,2016-12-22,Graphic Design,English
 406504,Become an InDesign Pro in 10 Skills,True,105,1079,172,35,Beginner Level,5.0,2015-08-21,Graphic Design,English
 644914,Digital Illustration: Make A Custom Character Illustration,True,30,1440,16,14,All Levels,1.5,2015-11-03,Graphic Design,English
@@ -1331,7 +1331,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 855188,Photoshop Essentials: Designing FaceBook Graphics,True,20,616,3,19,Beginner Level,1.5,2016-05-23,Graphic Design,English
 855764,Advance Learning Tools Corel Draw Graphics Design,True,40,797,13,70,Beginner Level,14.0,2016-05-31,Graphic Design,English
 699376,Creating an animated greeting card via Google Slides,True,20,549,10,8,Beginner Level,1.0,2016-04-12,Graphic Design,English
-192726,Logo Design for Entrepreneurs ,True,20,274,10,49,Beginner Level,3.5,2014-04-04,Graphic Design,French
+192726,Logo Design for Entrepreneurs ,True,20,274,10,49,Beginner Level,3.5,2014-04-04,Graphic Design,English
 358998,Sketch 3: Design a mobile application from scratch,True,45,709,14,31,All Levels,2.5,2014-12-08,Graphic Design,English
 525446,Draw a Kitten,False,0,3812,68,11,All Levels,1.5,2015-06-12,Graphic Design,English
 638040,Adobe Photoshop Essentials: Master Adobe Photoshop CS6,True,100,1373,5,63,Beginner Level,2.5,2015-11-18,Graphic Design,English
@@ -1386,12 +1386,12 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1000116,خطوتك الأولى لتعلم الفوتوشوبPhotoshop,True,20,272,11,12,Beginner Level,2.0,2016-12-22,Graphic Design,Arabic
 673142,master course - realistisch zeichnen lernen,True,20,280,46,33,All Levels,5.0,2016-02-10,Graphic Design,Deutsch
 701468,Photoshopマスターコース　基礎から上級まで　ステップバイステップでPhotoshopのすべてを学ぼう,True,70,354,27,98,All Levels,13.0,2016-01-04,Graphic Design,Japanese
-399938,Professional Logo Design in Adobe Illustrator,False,0,44044,1563,45,All Levels,7.5,2015-01-22,Graphic Design,English
+399938,Professional Logo Design in Adobe Illustrator,False,0,44044,1563,45,All Levels,7.5,2015-01-22,Graphic Design,Italian
 555952,Learn UI/UX and Mobile App Design in Photoshop from Scratch,True,145,1367,61,31,All Levels,3.0,2015-08-06,Graphic Design,English
 341952,Mastering Photoshop: From Beginner to Industry Professional,True,25,1754,52,79,Intermediate Level,12.5,2014-11-25,Graphic Design,English
 474076,Expert Retina / HiDPI Graphics in Photoshop & Illustrator,True,195,2067,8,18,All Levels,1.5,2015-04-26,Graphic Design,English
 839536,Start Making Comics with Manga Studio 5 / Clip Studio Paint,False,0,5301,125,77,All Levels,6.5,2016-06-21,Graphic Design,English
-787340,Most Wanted Flat Design Techniques #1: Desert Island,False,0,4294,143,15,Intermediate Level,1.0,2016-03-17,Graphic Design,French
+787340,Most Wanted Flat Design Techniques #1: Desert Island,False,0,4294,143,15,Intermediate Level,1.0,2016-03-17,Graphic Design,English
 559204,Photoshop Quickstart Guide to Digital Sketching,True,20,1679,24,15,Beginner Level,1.0,2015-09-17,Graphic Design,English
 1197810,Gestalt Principles & Pattern Design : Create Festive Pattern,True,50,327,0,14,All Levels,1.0,2017-05-02,Graphic Design,English
 971260,Logo Design - Design a Logo in Photoshop for beginners,True,30,740,20,12,Beginner Level,0.5833333333333334,2016-12-02,Graphic Design,English
@@ -1444,7 +1444,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 744696,Logo Design for Everybody,True,30,706,10,24,Beginner Level,5.5,2016-03-08,Graphic Design,English
 220604,Pixelmator - Create Vector Graphics From Scratch,True,20,507,42,36,All Levels,3.0,2014-09-19,Graphic Design,English
 699380,Creating an animated greeting card via Google Slides,True,20,770,8,8,Intermediate Level,1.0,2016-05-06,Graphic Design,English
-787096,Most Wanted Flat Design Techniques #3: Office Space,True,95,1028,2,26,Intermediate Level,2.0,2016-03-17,Graphic Design,French
+787096,Most Wanted Flat Design Techniques #3: Office Space,True,95,1028,2,26,Intermediate Level,2.0,2016-03-17,Graphic Design,English
 793000,Flat Design - Create Beautiful Flat Graphics In Photoshop,True,20,545,13,23,All Levels,2.0,2016-03-20,Graphic Design,English
 803058,T-Shirt Design Workshop 01: Foundation,True,25,690,162,19,All Levels,1.0,2016-03-25,Graphic Design,English
 494058,Expert Guide : Mastering Shapes Creation with Illustrator,True,200,2911,17,35,All Levels,5.0,2015-05-25,Graphic Design,English
@@ -1463,11 +1463,11 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 185500,Introducción al retrato realista con Photoshop,True,20,3,0,7,Beginner Level,1.0,2014-04-15,Graphic Design,Spanish
 722176,Uso Básico de Adobe Photoshop,True,20,1,0,27,Beginner Level,1.0,2016-02-08,Graphic Design,Portuguese
 197610,Técnicas Photoshop: Reformar Campo de golf,True,40,2,0,34,All Levels,1.5,2014-05-08,Graphic Design,Portuguese
-672112,誰でもわかる Adobe Illustrator CS5,True,20,1,0,13,Beginner Level,3.5,2015-11-24,Graphic Design,Italian
+672112,誰でもわかる Adobe Illustrator CS5,True,20,1,0,13,Beginner Level,3.5,2015-11-24,Graphic Design,English
 672086,誰でもわかる Adobe Photoshop CS5,True,20,1,0,14,Beginner Level,3.5,2015-11-24,Graphic Design,English
 185538,MicroStation - Niveles,True,20,2,0,7,Beginner Level,0.5666666666666667,2014-04-15,Graphic Design,English
 188604,Crea personajes fantásticos con Photoshop,True,20,1,0,8,Beginner Level,1.0,2014-04-04,Graphic Design,Spanish
-188584,Letras en Adobe Illustrator,True,40,0,0,13,Beginner Level,2.5,2014-04-04,Graphic Design,French
+188584,Letras en Adobe Illustrator,True,40,0,0,13,Beginner Level,2.5,2014-04-04,Graphic Design,Spanish
 181268,Photoshop: Creando elemental de aire,True,20,0,0,5,Beginner Level,1.0,2014-04-01,Graphic Design,Portuguese
 177472,Nuke X: Aprende composición digital,True,35,3,1,21,Beginner Level,2.5,2014-04-01,Graphic Design,Spanish
 766320,สร้างงานกราฟฟิคแอพพลิเคชั่นมือถือด้วย Adobe Illustrator,True,20,25,5,30,Beginner Level,9.5,2016-02-25,Graphic Design,English
@@ -1621,8 +1621,8 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1216554,Photoshop isn't like what you imagine A to Z .,True,35,343,0,24,All Levels,3.5,2017-07-06,Graphic Design,English
 1275872,The Complete Adobe Spark Course,True,150,0,0,29,All Levels,2.0,2017-07-03,Graphic Design,English
 1133764,The Art of Logo Design : Everything You Need to Know,True,20,0,0,18,All Levels,1.0,2017-03-09,Graphic Design,English
-1200856,Hand Lettering para Iniciantes,True,40,384,92,18,All Levels,0.7166666666666667,2017-06-15,Graphic Design,English
-1226332,Aprende a utilizar Canva,True,20,677,45,11,Beginner Level,0.6666666666666666,2017-05-28,Graphic Design,English
+1200856,Hand Lettering para Iniciantes,True,40,384,92,18,All Levels,0.7166666666666667,2017-06-15,Graphic Design,Italian
+1226332,Aprende a utilizar Canva,True,20,677,45,11,Beginner Level,0.6666666666666666,2017-05-28,Graphic Design,Portuguese
 950894,photoshop - CURSO DE PHOTOSHOP DO BÁSICO AO AVANÇADO,True,100,1110,183,77,All Levels,10.0,2017-02-06,Graphic Design,English
 1245356,Photoshop - Revelando os segredos das Fusões,True,20,858,25,17,Expert Level,3.5,2017-06-08,Graphic Design,Portuguese
 1092766,Create Mobile App Design from Scratch in Photoshop,True,125,1359,7,24,Beginner Level,2.5,2017-02-01,Graphic Design,English
@@ -1650,7 +1650,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 517866,How to create gif animation in photoshop,True,20,34,0,18,All Levels,1.0,2015-06-02,Graphic Design,English
 1036766,How to Color Comic Books... with a Mouse,True,30,7,0,8,All Levels,2.0,2017-01-03,Graphic Design,English
 337072,Bestseller! Learn Photoshop in 1 Hour (No Experience Needed),True,200,5471,72,39,Beginner Level,6.5,2015-03-05,Graphic Design,English
-737642,How To Design A Fortune 500 Logo in Illustrator,True,195,3599,43,72,Intermediate Level,5.0,2016-01-24,Graphic Design,Italian
+737642,How To Design A Fortune 500 Logo in Illustrator,True,195,3599,43,72,Intermediate Level,5.0,2016-01-24,Graphic Design,English
 520766,Canva : Graphic Design Theory Volume2,True,200,4961,38,29,All Levels,2.0,2015-06-20,Graphic Design,English
 757900,Canva : Book Cover Design,True,100,3377,20,15,Beginner Level,2.0,2016-02-26,Graphic Design,English
 978576,The Complete Figure Drawing Course HD,True,50,1323,136,225,Beginner Level,78.5,2016-10-11,Graphic Design,English
@@ -1703,7 +1703,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1100628,Canva: Design and Sell Your Own Professional Canva Designs,True,200,793,26,52,All Levels,3.0,2017-03-02,Graphic Design,English
 996868,How to Design a Logo in Adobe Illustrator,True,100,972,44,24,All Levels,1.0,2016-11-14,Graphic Design,English
 751230,Illustrator CC: Design and drawing from scratch to expert!,True,150,2427,99,97,Beginner Level,11.0,2016-12-15,Graphic Design,English
-356840,Logo design: How To Design an Awesome Logo in Illustrator,True,195,3131,131,56,All Levels,5.5,2014-11-28,Graphic Design,Italian
+356840,Logo design: How To Design an Awesome Logo in Illustrator,True,195,3131,131,56,All Levels,5.5,2014-11-28,Graphic Design,English
 269082,Photoshop: Real World Hands-on Freelance Mastery,True,105,5950,25,29,All Levels,2.5,2014-09-25,Graphic Design,English
 449788,Graphic Design: Beginner's Graphic Design Guide to Photoshop,True,25,4550,74,15,All Levels,1.0,2015-05-20,Graphic Design,English
 792232,Most Wanted Flat Design Techniques,True,195,2081,35,61,Intermediate Level,4.5,2016-03-17,Graphic Design,English
@@ -1791,7 +1791,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 456388,Adobe Photoshop CC | The Essential Guide,True,20,254,5,81,All Levels,4.5,2015-05-12,Graphic Design,English
 955242,Learn to Composite a 2D Action Shot in Photoshop,True,20,40,2,8,Beginner Level,1.5,2016-09-10,Graphic Design,English
 496430,Infographic Design: How To Create Your Own Infographic,True,20,84,8,13,All Levels,2.0,2015-05-12,Graphic Design,English
-793246,Autodesk Inventor 2016 : Complete Guide ,True,20,23,4,83,Beginner Level,7.5,2016-03-22,Graphic Design,Spanish
+793246,Autodesk Inventor 2016 : Complete Guide ,True,20,23,4,83,Beginner Level,7.5,2016-03-22,Graphic Design,Portuguese
 547190,Amazing Graphic Design for Beginners,True,20,32,10,5,Beginner Level,0.7,2015-07-08,Graphic Design,English
 696630,"7 Ways A Beginner Guitarist Can Sound Better, Instantly!",False,0,4529,193,7,Beginner Level,0.6,2015-12-21,Musical Instruments,English
 643970,Instant Harmonica - Christmas. Play Jingle Bells Part 1 now,True,20,823,11,10,All Levels,0.7,2015-12-11,Musical Instruments,English
@@ -1808,7 +1808,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 661814,Piano Runs & Fills #3:  Jazzy Chromatic Chord Song Endings,True,70,747,5,28,All Levels,1.0,2015-11-10,Musical Instruments,English
 640496,Teaching Music : Start teaching an instrument successfully.,True,30,1337,5,18,Beginner Level,1.5,2015-10-16,Musical Instruments,English
 1200374,Strumming from scratch - Rhythm guitar lesson for Beginners,False,0,530,11,13,Beginner Level,2.0,2017-05-04,Musical Instruments,English
-101498,Blues Guitar Lessons - From Texas To Carolina,True,20,1297,12,9,Intermediate Level,2.5,2013-10-13,Musical Instruments,French
+101498,Blues Guitar Lessons - From Texas To Carolina,True,20,1297,12,9,Intermediate Level,2.5,2013-10-13,Musical Instruments,English
 729464,Instant Harmonica - play the groovy Beatles Yesterday today!,True,40,295,7,14,All Levels,1.0,2016-04-25,Musical Instruments,English
 961630,Beginner Guitar Quick-Start Course,False,0,2084,20,7,Beginner Level,1.0,2016-09-28,Musical Instruments,Deutsch
 544234,Mike G's Beginner Drum Course: Part 1,True,35,515,14,20,Beginner Level,3.0,2015-11-01,Musical Instruments,Deutsch
@@ -1840,7 +1840,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 413182,Play By Ear #4: Play Song By Ear with 3 Chords Using Any Key,True,95,1064,11,110,All Levels,2.5,2015-02-07,Musical Instruments,English
 1108666,Worship Piano: From Beginner to Pro,True,80,117,11,32,All Levels,3.0,2017-02-18,Musical Instruments,English
 692658,Easy to play Christmas Songs for Guitar,True,100,1229,8,11,All Levels,0.5,2015-12-12,Musical Instruments,English
-173776,Ultimate Blues Guitar Beginner Lessons,True,20,922,57,90,Beginner Level,10.5,2014-03-08,Musical Instruments,French
+173776,Ultimate Blues Guitar Beginner Lessons,True,20,922,57,90,Beginner Level,10.5,2014-03-08,Musical Instruments,Deutsch
 1254852,How to Play Piano - Your First Lesson!,False,0,662,7,13,Beginner Level,0.5166666666666666,2017-06-24,Musical Instruments,English
 637842,Playing Piano : Reading and Playing Classical Tunes Vol.I,True,50,1732,6,34,Beginner Level,2.0,2015-10-16,Musical Instruments,English
 953442,Blues School! A Course For Beginners in Blues Piano & Improv,True,120,326,44,54,All Levels,3.0,2017-02-22,Musical Instruments,English
@@ -1852,7 +1852,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 20387,Guitar Insanity Workout - Eatmystrings!,True,50,2673,17,29,All Levels,2.5,2012-07-06,Musical Instruments,English
 646906,Playing Piano:  Play Chords and Popular Pieces Vol.I,True,100,1987,7,43,Beginner Level,3.0,2016-02-01,Musical Instruments,English
 783292,Guitar Chord Riot! Learn to Play Guitar Like a Guitar Jedi,True,75,1052,6,43,Intermediate Level,0.5,2016-03-11,Musical Instruments,English
-515262,Guitar: Learn 12 Must Know Beginner Rock Guitar Riffs,True,50,1548,10,20,Beginner Level,2.0,2015-09-24,Musical Instruments,Deutsch
+515262,Guitar: Learn 12 Must Know Beginner Rock Guitar Riffs,True,50,1548,10,20,Beginner Level,2.0,2015-09-24,Musical Instruments,English
 147404,Guitar Fretboard Mastery for the Blues Guitarist,True,20,257,6,5,All Levels,1.0,2014-01-16,Musical Instruments,English
 260900,Quick & Easy Piano Chords: Play more songs with more chords,True,55,1818,4,90,Beginner Level,2.5,2014-07-17,Musical Instruments,English
 563650,Instant Harmonica - play Scarborough Fair in 8 easy lectures,True,40,543,4,12,Beginner Level,1.0,2015-07-24,Musical Instruments,English
@@ -1977,7 +1977,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 217978,ブルースギター入門,False,0,462,6,23,All Levels,3.5,2014-05-17,Musical Instruments,Japanese
 238934,Pianoforall - Incredible New Way To Learn Piano & Keyboard,True,200,75499,7676,362,All Levels,30.0,2014-08-07,Musical Instruments,English
 456284,The Professional Guitar Masterclass,True,200,21701,1340,136,All Levels,9.5,2015-04-28,Musical Instruments,English
-1029440,Modern Rock Guitar Techniques,True,50,3157,375,32,Intermediate Level,3.0,2016-12-08,Musical Instruments,French
+1029440,Modern Rock Guitar Techniques,True,50,3157,375,32,Intermediate Level,3.0,2016-12-08,Musical Instruments,Deutsch
 42271,Complete Guitar System - Beginner to Advanced,True,145,32935,2713,310,All Levels,34.0,2013-05-29,Musical Instruments,English
 484670,Guitar Super System Level 1,True,50,10869,2257,104,Intermediate Level,5.0,2015-04-29,Musical Instruments,English
 967380,How to play Piano - Go from a Beginner/Intermediate to a Pro,True,200,5316,159,291,All Levels,31.0,2016-10-16,Musical Instruments,English
@@ -2060,7 +2060,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 823860,Trumpet Pro Series - You're going to love practicing Trumpet,True,50,92,1,25,All Levels,6.0,2016-04-22,Musical Instruments,English
 635570,A Guide to Analog Synths: For the modern EDM enthusiast.,True,20,29,4,37,All Levels,3.5,2016-04-20,Musical Instruments,English
 99324,Acoustic Blues Guitar Lessons,False,0,8217,109,10,Intermediate Level,1.0,2013-09-30,Musical Instruments,French
-535650,Accelerate Your Guitar Learning With Metal Techniques,True,20,1305,25,68,All Levels,6.5,2015-08-18,Musical Instruments,English
+535650,Accelerate Your Guitar Learning With Metal Techniques,True,20,1305,25,68,All Levels,6.5,2015-08-18,Musical Instruments,French
 769270,Beginner Step by Step Keharwa Theka Tabla Course,True,20,916,26,16,Beginner Level,0.6666666666666666,2016-02-22,Musical Instruments,English
 51752,Just chords Piano: Learn to Play Piano Quickly - No Music,True,85,2357,15,53,Beginner Level,5.0,2013-05-02,Musical Instruments,English
 17922,Play Ukulele Now,True,30,1951,88,78,All Levels,5.0,2012-06-02,Musical Instruments,English
@@ -2087,7 +2087,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1149202,Guitar Solo - Theory and Improvisation Lessons,True,60,12,4,34,Intermediate Level,1.5,2017-04-11,Musical Instruments,English
 802040,Bluegrass Guitar Essentials: Webisodes 3 & 4,True,30,12,2,13,Intermediate Level,2.0,2016-03-24,Musical Instruments,English
 789820,Instant Harmonica - play Christmas + Birthday songs now!,True,40,236,0,18,All Levels,1.5,2016-05-18,Musical Instruments,English
-806640,Blues Master - Advanced Techniques Piano Course,True,75,7,2,14,All Levels,1.0,2016-03-29,Musical Instruments,English
+806640,Blues Master - Advanced Techniques Piano Course,True,75,7,2,14,All Levels,1.0,2016-03-29,Musical Instruments,French
 802038,Bluegrass Guitar Essentials: Webisodes 5 & 6,True,30,11,2,16,Intermediate Level,3.0,2016-04-13,Musical Instruments,English
 818838,Trombone Lessons For Beginners,True,95,11,2,34,Beginner Level,3.0,2016-04-14,Musical Instruments,English
 269832,Rhythm to Rock Drum Lesson 6,True,20,12,1,13,Beginner Level,1.5,2014-08-21,Musical Instruments,English
@@ -2108,15 +2108,15 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 839028,Bluegrass Guitar Essentials: Webisodes 9 & 10,True,30,10,0,12,Intermediate Level,2.0,2016-08-06,Musical Instruments,English
 771880,Clarinet Lessons For Beginners,True,95,11,0,41,Beginner Level,3.0,2016-02-26,Musical Instruments,Deutsch
 228268,Play music on Harmonica using 8 notes - learn easy tunes!,True,35,29,0,14,Beginner Level,1.0,2014-05-26,Musical Instruments,English
-944550,Learn Piano Online-A Quiet Solace Piano Solo,True,50,7,0,10,Intermediate Level,1.0,2016-08-29,Musical Instruments,English
+944550,Learn Piano Online-A Quiet Solace Piano Solo,True,50,7,0,10,Intermediate Level,1.0,2016-08-29,Musical Instruments,Italian
 839026,Bluegrass Guitar Essentials: Webisodes 7 & 8,True,30,9,0,10,Intermediate Level,2.0,2016-05-05,Musical Instruments,English
 838320,The Art of the Blues Shuffle - A Guitarist's Guide,True,20,8,0,11,Intermediate Level,1.5,2016-06-26,Musical Instruments,English
 838896,Learn Piano Online-Ambiance Piano Solo,True,50,8,0,10,Intermediate Level,1.0,2016-06-21,Musical Instruments,Italian
-812602,Piano Lessons For Beginners,True,95,8,0,50,Beginner Level,4.0,2016-04-12,Musical Instruments,English
+812602,Piano Lessons For Beginners,True,95,8,0,50,Beginner Level,4.0,2016-04-12,Musical Instruments,Deutsch
 190906,The Theory & Practice of Modes on the Guitar,True,35,17,0,7,Intermediate Level,1.5,2014-04-04,Musical Instruments,English
 1124590,Learn How To Play The Trumpet,True,75,2,0,24,All Levels,1.5,2017-06-19,Musical Instruments,English
 917176,Violin for Beginners,True,50,4,0,18,Beginner Level,0.7333333333333333,2017-03-07,Musical Instruments,English
-647884,Beginner Acoustic Guitar Lessons,True,25,8,0,12,Beginner Level,1.0,2015-10-28,Musical Instruments,French
+647884,Beginner Acoustic Guitar Lessons,True,25,8,0,12,Beginner Level,1.0,2015-10-28,Musical Instruments,English
 646918,Aprendiendo Piano: Tocando piezas populares Vol.I,True,100,122,3,59,Beginner Level,3.5,2015-11-14,Musical Instruments,Spanish
 1216752,Curso de Bateria - Explorando Diferentes Divisões,True,55,5,2,19,Intermediate Level,2.0,2017-05-18,Musical Instruments,Portuguese
 1193536,Escalas Pentatónicas para guitarristas,True,25,11,3,23,All Levels,0.6,2017-06-02,Musical Instruments,Spanish
@@ -2134,7 +2134,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 218540,Aprende a tocar el violín desde cero,True,50,17,1,22,All Levels,2.5,2014-05-19,Musical Instruments,Spanish
 211780,Aprende a tocar el teclado como los expertos,True,50,11,1,37,All Levels,2.5,2014-05-09,Musical Instruments,Spanish
 217320,Aprende a tocar el saxofón como siempre has querido,True,20,8,1,26,All Levels,3.5,2014-05-16,Musical Instruments,Spanish
-387064,Guitarra para principiantes,True,20,7,1,46,Beginner Level,2.0,2015-01-22,Musical Instruments,English
+387064,Guitarra para principiantes,True,20,7,1,46,Beginner Level,2.0,2015-01-22,Musical Instruments,Italian
 219756,Aprende a tocar flauta transversal sin complicaciones,True,50,6,2,23,All Levels,3.0,2014-05-19,Musical Instruments,English
 1243162,Aprende a tocar las escalas en el acordeón de botones.,True,20,2,0,21,Beginner Level,1.0,2017-06-17,Musical Instruments,Spanish
 1174974,Curso de Violão Prático,True,70,5,0,10,Beginner Level,1.5,2017-04-12,Musical Instruments,Portuguese
@@ -2144,7 +2144,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 445118,Guitar Lesson - Five Steps to Learn Barre Chords,True,35,57,9,9,All Levels,0.55,2015-03-15,Musical Instruments,English
 146852,"Easy Piano Basics™ - Learn Piano, No Prior Experience Needed",True,20,377,8,14,All Levels,1.5,2014-01-30,Musical Instruments,English
 147754,Guitar Technique Mastery: The Ultimate Chop Building Workout,True,20,273,4,6,All Levels,1.5,2014-01-16,Musical Instruments,English
-131512,Inside Drum Technique,True,50,406,10,25,All Levels,2.0,2013-12-13,Musical Instruments,French
+131512,Inside Drum Technique,True,50,406,10,25,All Levels,2.0,2013-12-13,Musical Instruments,Deutsch
 140168,"Learn to Play Tarrega, Bach, and Sor on Classical Guitar",True,195,556,11,27,Intermediate Level,4.0,2014-01-27,Musical Instruments,English
 510098,Create Beautiful Music On The Piano Like a Pro In Minutes,True,95,115,17,17,All Levels,1.5,2015-08-10,Musical Instruments,English
 561774,Instant Harmonica - play the great Irish tune Molly Malone!,True,20,420,2,13,Beginner Level,1.0,2015-07-23,Musical Instruments,English
@@ -2176,7 +2176,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 455676,Electric Bass for Busy Beginners Course 1,True,50,114,15,13,All Levels,1.5,2015-04-27,Musical Instruments,English
 200108,Guitar for Absolute Beginners (Class 1),True,20,45,4,48,Beginner Level,1.5,2014-05-01,Musical Instruments,English
 198660,Tenor Banjo for Absolute Beginners,False,0,3167,161,34,Beginner Level,0.6166666666666667,2014-07-19,Musical Instruments,English
-763100,Guitar Lessons - 50 Essential Fast Legato Licks,True,35,105,9,23,Intermediate Level,3.0,2016-02-15,Musical Instruments,French
+763100,Guitar Lessons - 50 Essential Fast Legato Licks,True,35,105,9,23,Intermediate Level,3.0,2016-02-15,Musical Instruments,English
 922828,Aprenda a tocar Pandeiro - Curso Iniciante - Samba/Choro,True,90,85,22,20,Beginner Level,2.0,2016-08-21,Musical Instruments,Portuguese
 32033,Aprende batería con el nuevo método IDT,True,20,335,32,25,All Levels,2.0,2012-12-24,Musical Instruments,Spanish
 286070,5 lecciones que todo guitarrista debe tomar,False,0,4452,263,14,Beginner Level,1.0,2014-08-23,Musical Instruments,Spanish
@@ -2218,7 +2218,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 147174,Blues Accelerator - 21 Days to Blues Guitar Mastery,True,50,78,6,45,Beginner Level,7.0,2014-01-16,Musical Instruments,English
 799912,Alto Saxophone Lessons For Beginners,True,95,51,7,42,Beginner Level,3.0,2016-03-23,Musical Instruments,English
 655958,Instant Harmonica - Christmas; play Jingle Bells part 2 now!,True,20,58,1,10,All Levels,0.7333333333333333,2015-12-17,Musical Instruments,English
-744034,Piano With Willie: Jazz & Gospel Exercises,True,40,56,3,28,Intermediate Level,2.0,2016-04-13,Musical Instruments,Italian
+744034,Piano With Willie: Jazz & Gospel Exercises,True,40,56,3,28,Intermediate Level,2.0,2016-04-13,Musical Instruments,English
 139790,Bending the blue notes to give you killer sound on harmonica,True,35,162,3,14,Intermediate Level,2.0,2014-03-02,Musical Instruments,English
 288854,"Beginner's Guitar: Tuning, Strumming, and Chords!",False,0,2577,30,6,Beginner Level,0.6166666666666667,2015-07-03,Musical Instruments,English
 588264,Instant Harmonica - play The Lion Sleeps Tonight - today!,True,20,62,1,11,Beginner Level,1.0,2015-08-21,Musical Instruments,English
@@ -2238,7 +2238,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 459926,Advanced Tuba Studies - Become a Master of the Tuba!​,True,50,173,0,63,All Levels,5.0,2015-04-15,Musical Instruments,English
 1040596,'Greensleeves' Creative Piano Lessons Course,True,20,10,1,8,All Levels,2.0,2017-01-03,Musical Instruments,English
 266004,Rhythm to Rock Drum Lesson 4,True,20,12,3,12,Beginner Level,1.5,2014-08-18,Musical Instruments,English
-720072,Hands On Guitar: Beyond Beginner,True,20,54,7,69,Beginner Level,3.0,2016-01-22,Musical Instruments,Deutsch
+720072,Hands On Guitar: Beyond Beginner,True,20,54,7,69,Beginner Level,3.0,2016-01-22,Musical Instruments,English
 1046768,Instant harmonica - play Auld Lang Syne the neet (tonight)!,True,40,28,1,13,All Levels,1.0,2016-12-22,Musical Instruments,English
 138336,Piano The Hard Way -  Fast Way To Life Long Piano Enjoyment,True,25,238,3,22,Beginner Level,1.0,2014-02-19,Musical Instruments,English
 333046,The Ultimate Method for Learning Modern Piano & Keyboards,True,25,512,3,151,All Levels,2.5,2014-11-03,Musical Instruments,English
@@ -2256,7 +2256,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 212506,Ahora aprende a tocar jazz en el piano,True,30,4,0,9,All Levels,1.5,2014-05-09,Musical Instruments,Spanish
 687742,こどもギターレッスン　リトルギタリストⅡ,True,20,2,0,47,Beginner Level,3.5,2016-02-18,Musical Instruments,Japanese
 219878,Aprende a tocar el contrabajo sin complicaciones,True,50,3,1,20,All Levels,3.0,2014-05-19,Musical Instruments,Spanish
-207304,Aprende a tocar la guitarra eléctrica,True,50,3,0,39,All Levels,5.5,2014-04-30,Musical Instruments,English
+207304,Aprende a tocar la guitarra eléctrica,True,50,3,0,39,All Levels,5.5,2014-04-30,Musical Instruments,Spanish
 195196,Aprende a improvisar en la guitarra eléctrica,True,50,3,0,19,All Levels,3.0,2014-05-05,Musical Instruments,Spanish
 834422,Curso de Teclado,True,40,1,0,26,Beginner Level,1.5,2016-05-16,Musical Instruments,Spanish
 724436,Guitarra Acústica en Siete Días,True,20,1,1,38,Beginner Level,2.5,2016-01-29,Musical Instruments,Spanish
@@ -2286,7 +2286,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 869312,TAKE NOTE BEGINNER CLARINET!  –  Fun with Fundamental Skills,True,30,137,2,43,Beginner Level,4.5,2016-06-13,Musical Instruments,English
 721274,Learn to Play Irish Fiddle,True,60,112,7,63,Beginner Level,5.5,2016-01-18,Musical Instruments,English
 719920,Hands-On Guitar: The Beginner's Guide,True,20,28,7,72,Beginner Level,4.0,2016-01-22,Musical Instruments,English
-846962,Slap Bass For Beginners,True,50,79,3,25,All Levels,1.5,2016-06-23,Musical Instruments,Deutsch
+846962,Slap Bass For Beginners,True,50,79,3,25,All Levels,1.5,2016-06-23,Musical Instruments,English
 206986,Piano Lessons for Beginners Made Easy,True,25,333,5,40,Beginner Level,3.0,2014-05-28,Musical Instruments,English
 813142,Horn Pro Series - You're going to love playing French Horn,True,50,48,3,61,All Levels,8.0,2016-04-08,Musical Instruments,English
 701662,Instant Harmonica - play the Irish tune Whiskey in the Jar!,True,20,41,1,13,All Levels,1.0,2015-12-28,Musical Instruments,English
@@ -2366,7 +2366,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 632234,Guitar Chords and Basic Strumming,True,20,3,0,35,Beginner Level,2.5,2015-12-17,Musical Instruments,English
 594854,Getting Started on the Acoustic Guitar,True,20,3,0,28,Beginner Level,1.0,2015-10-20,Musical Instruments,English
 974704,Learn Piano Online-In the Garden Piano Solo,True,60,1,0,11,Intermediate Level,1.0,2016-10-03,Musical Instruments,English
-545036,Saxophone Essentials: Beginners Course,True,40,3,0,16,Beginner Level,1.5,2017-04-26,Musical Instruments,French
+545036,Saxophone Essentials: Beginners Course,True,40,3,0,16,Beginner Level,1.5,2017-04-26,Musical Instruments,Deutsch
 388712,Learn To Play The Guitar In A Day,True,20,3,1,14,Beginner Level,1.0,2015-01-09,Musical Instruments,English
 383852,88 Logic - The Essential Guide To Learning Piano,True,25,3,0,5,Beginner Level,0.5333333333333333,2015-01-13,Musical Instruments,English
 459946,Tuba Solos: Learn how to Perform Three Fun and Unique Pieces,True,50,164,0,20,Intermediate Level,2.0,2015-04-15,Musical Instruments,English
@@ -2375,7 +2375,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 1111562,Instant Harmonica - play 'I just called to say I love you',True,40,15,0,11,All Levels,1.0,2017-02-15,Musical Instruments,English
 320238,Jazz piano improvisation: The girl form Ipanema. Bossa nova,True,30,151,1,5,All Levels,0.55,2014-10-16,Musical Instruments,Italian
 818786,Drum Lessons For Beginners,True,95,14,1,34,Beginner Level,2.5,2016-04-13,Musical Instruments,Deutsch
-741388,Piano With Willie: Jazz Kids - Vol 3,True,40,16,1,29,Beginner Level,3.0,2016-04-13,Musical Instruments,Deutsch
+741388,Piano With Willie: Jazz Kids - Vol 3,True,40,16,1,29,Beginner Level,3.0,2016-04-13,Musical Instruments,English
 629704,Quick Piano Lessons - Tutorials for Drake's Greatest Hits,True,35,19,1,4,All Levels,0.55,2015-10-04,Musical Instruments,English
 839032,"Bluegrass Guitar Essentials: Webisodes 13, 14, & 15",True,30,14,1,13,Intermediate Level,1.5,2016-12-15,Musical Instruments,English
 23683,Guitar - Rock - Beginner with Marc Seal,True,20,40,1,27,All Levels,1.0,2012-08-31,Musical Instruments,English
@@ -2411,7 +2411,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 41890,Beginners Guide to Playing Guitar - Step-by-step System,True,85,384,25,98,Beginner Level,10.5,2013-06-10,Musical Instruments,English
 385684,Guitar Kick Start,False,0,3160,47,22,Beginner Level,1.0,2015-03-19,Musical Instruments,English
 559438,Instant Harmonica – play Beethoven’s Ode to Joy right now!,True,20,455,3,11,Beginner Level,1.0,2015-07-22,Musical Instruments,English
-760698,Funk Rhythm Guitar Techniques,True,35,82,6,7,All Levels,1.5,2016-02-17,Musical Instruments,Deutsch
+760698,Funk Rhythm Guitar Techniques,True,35,82,6,7,All Levels,1.5,2016-02-17,Musical Instruments,French
 427066,Flamenco Guitar,True,25,136,20,34,Beginner Level,4.0,2015-12-07,Musical Instruments,Portuguese
 444644,Learn to play the Bouzouki - Greek Bouzouki Lessons,True,50,63,13,49,All Levels,1.0,2015-03-19,Musical Instruments,English
 743846,Guitar Looper Basic Training,True,45,64,13,15,All Levels,1.5,2016-02-29,Musical Instruments,English
@@ -2470,7 +2470,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 217540,Aprende a tocar el bajo eléctrico ,True,50,9,0,33,All Levels,3.5,2014-05-16,Musical Instruments,Spanish
 212438,Aprende todos los secretos de la salsa para piano,True,50,7,0,17,All Levels,3.0,2014-05-09,Musical Instruments,Spanish
 212520,Aprende a tocar ritmos latinos en el teclado,True,50,7,0,31,All Levels,3.5,2014-05-09,Musical Instruments,Spanish
-1150468,Ukulele lernen für Papas mit Aram sam sam,True,55,1,0,37,Beginner Level,0.7,2017-05-17,Musical Instruments,Deutsch
+1150468,Ukulele lernen für Papas mit Aram sam sam,True,55,1,0,37,Beginner Level,0.7,2017-05-17,Musical Instruments,English
 218596,Aprende a tocar la trompeta,True,50,6,2,30,All Levels,3.0,2014-05-19,Musical Instruments,English
 513528,Curso de guitarra para principiantes.,True,20,4,0,7,Beginner Level,1.0,2015-06-11,Musical Instruments,Spanish
 211026,Aprende a tocar Jazz y Ritmos Latinos en la guitarra,True,50,6,0,17,All Levels,3.0,2014-05-07,Musical Instruments,Spanish
@@ -2494,7 +2494,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 987064,Learn by Doing: Vue JS 2.0 the Right Way,True,95,1087,220,32,Intermediate Level,3.5,2016-11-07,Web Development,English
 94428,Learn Complete Web Development From Scratch,True,40,14074,106,46,All Levels,12.0,2013-10-23,Web Development,English
 159070,Introduction to Web Development: HTML,True,20,26800,333,55,Beginner Level,3.0,2014-02-13,Web Development,English
-920306,Web Site for Beginners - Learn Web Building like knitting,True,20,9425,147,14,Beginner Level,1.5,2016-08-10,Web Development,English
+920306,Web Site for Beginners - Learn Web Building like knitting,True,20,9425,147,14,Beginner Level,1.5,2016-08-10,Web Development,Deutsch
 1089744,How To Make A Wordpress Website 2017 - Divi Theme Tutorial,True,40,2780,94,29,Beginner Level,3.0,2017-01-26,Web Development,English
 16646,Web Programming with Python,True,50,35267,217,53,All Levels,4.0,2012-04-25,Web Development,English
 678142,PHP Login and Registration System - Email Confirm Activation,True,100,2607,317,49,All Levels,5.0,2015-11-26,Web Development,English
@@ -2649,7 +2649,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 712960,"Angular 4 - Concepts, Code and Collective Wisdom",True,50,851,164,75,Intermediate Level,4.5,2016-04-20,Web Development,English
 267560,Learn E-Commerce Website in PHP & MySQL From Scratch!,False,0,29990,1342,87,All Levels,17.5,2014-08-10,Web Development,English
 763774,JavaScript Game Development: Create Your Own Breakout Game,False,0,10179,314,21,All Levels,1.5,2016-09-26,Web Development,English
-929016,HTML and HTML5 For Beginners 2016,True,200,563,178,32,All Levels,3.0,2016-08-11,Web Development,English
+929016,HTML and HTML5 For Beginners 2016,True,200,563,178,32,All Levels,3.0,2016-08-11,Web Development,Deutsch
 281690,A Very Complete Introduction To Laravel,True,20,2320,114,43,All Levels,6.0,2014-08-24,Web Development,English
 399228,"Learn to code, Become a Web Developer and Master JavaScript!",True,200,2353,47,91,All Levels,10.0,2015-01-22,Web Development,English
 1023062,Serverless Architecture on Amazon Web Services,False,0,13210,978,8,Intermediate Level,0.55,2016-11-30,Web Development,English
@@ -2726,7 +2726,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 382856,Create Startup Landing Page with Viral Marketing Strategies,False,0,12974,120,13,Beginner Level,1.0,2015-01-03,Web Development,English
 958982,JavaScript : JavaScript Awesomeness,True,25,785,20,25,Beginner Level,1.0,2016-09-15,Web Development,English
 1113036,Mastering CSS 3.0 Selectors,False,0,4115,63,13,Intermediate Level,2.0,2017-02-22,Web Development,English
-226534,WordPress Backup And Restore Fundamentals,False,0,13242,131,24,Intermediate Level,1.0,2014-06-24,Web Development,English
+226534,WordPress Backup And Restore Fundamentals,False,0,13242,131,24,Intermediate Level,1.0,2014-06-24,Web Development,Deutsch
 738726,Learn HTML and CSS to make a Website,True,20,1154,12,71,Beginner Level,6.0,2016-01-28,Web Development,English
 64422,1 Hour HTML,True,200,16212,514,20,Beginner Level,1.0,2013-07-09,Web Development,English
 874166,Angular 2 Crash Course with TypeScript,True,100,16409,589,74,All Levels,4.0,2016-06-14,Web Development,English
@@ -2827,7 +2827,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 797832,Getting Started with WordPress 2016,True,20,1613,21,20,Beginner Level,1.0,2016-04-14,Web Development,English
 41295,Learn HTML5 Programming From Scratch,False,0,268923,8629,45,All Levels,10.5,2013-02-14,Web Development,English
 413494,Getting Started with LESS - Beginner Crash Course,True,25,1780,69,21,Beginner Level,1.5,2015-02-12,Web Development,English
-911318,Master ECMAScript 2015 (ES6),False,0,7438,441,37,All Levels,2.5,2016-11-28,Web Development,Deutsch
+911318,Master ECMAScript 2015 (ES6),False,0,7438,441,37,All Levels,2.5,2016-11-28,Web Development,English
 197828,Learn to Setup Websites from Scratch,False,0,21087,154,24,Beginner Level,3.5,2014-04-14,Web Development,English
 576646,Create Fast RESTful APIs with Lumen and Homestead by Laravel,True,60,1157,105,31,All Levels,3.0,2015-10-25,Web Development,English
 984072,"Build Modern Websites Quick With HTML,CSS and Bootstrap",True,20,912,17,48,Beginner Level,4.5,2016-10-18,Web Development,English
@@ -2876,7 +2876,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 902748,Introduction To Data Analytics Using Microsoft Power BI,True,45,1764,33,16,All Levels,1.5,2016-07-13,Web Development,English
 634754,HTML Made Simple For Beginners: Create a One Page Website,True,65,3380,50,16,Beginner Level,2.0,2015-10-14,Web Development,English
 1112844,The Complete Web Developer Masterclass: Beginner To Advanced,True,20,1030,11,30,All Levels,2.5,2017-05-12,Web Development,English
-1026206,Website Builder Software Previews,True,25,1406,12,20,Beginner Level,1.0,2016-12-15,Web Development,Deutsch
+1026206,Website Builder Software Previews,True,25,1406,12,20,Beginner Level,1.0,2016-12-15,Web Development,English
 484872,Learn How to Create Your Own Social Network,True,50,4732,5,14,All Levels,2.0,2015-04-24,Web Development,English
 773824,"Learn By Example: The Foundations of HTML, CSS & Javascript",True,50,1724,72,94,All Levels,13.0,2016-02-29,Web Development,English
 846578,JavaScript manipulation of the DOM Document Object Model,True,20,1618,46,20,Beginner Level,1.5,2016-05-13,Web Development,English
@@ -2886,7 +2886,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 472526,PHP for Beginners,True,40,2626,95,135,Beginner Level,6.0,2015-07-01,Web Development,English
 241590,Make a professional website - 30 Day Guarantee. Discounted!,True,20,11167,34,13,All Levels,2.0,2014-06-23,Web Development,English
 1182108,Symfony 3: Build a PHP Application with Symfony,True,20,466,11,25,All Levels,2.0,2017-04-20,Web Development,English
-1156648,Learn ASP.Net Web API 2 for Absolute Beginner,True,30,1355,14,29,All Levels,3.5,2017-03-30,Web Development,English
+1156648,Learn ASP.Net Web API 2 for Absolute Beginner,True,30,1355,14,29,All Levels,3.5,2017-03-30,Web Development,Deutsch
 642696,Build a Website in 30 Minutes,True,95,5065,40,12,Beginner Level,0.5333333333333333,2015-11-13,Web Development,English
 1121696,Google Blogger : How to Create a Blog,True,20,1763,17,30,Beginner Level,2.0,2017-02-24,Web Development,English
 389240,How to Make a Website Without Coding- WordPress & Web Skills,True,30,6413,107,123,All Levels,9.0,2015-04-28,Web Development,English
@@ -3042,7 +3042,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 336938,Learn How To Build a Web Application Without Coding,False,0,9364,311,10,Beginner Level,0.5333333333333333,2015-03-04,Web Development,English
 375136,Rock Solid Wordpress Security - Secure Web Development,False,0,5052,92,23,All Levels,1.5,2014-12-28,Web Development,English
 602218,Mastering JavaScript,True,95,694,39,39,Expert Level,4.0,2015-09-04,Web Development,English
-1022682,PHP Laravel 5:Creating a CRUD application,True,45,511,12,7,All Levels,0.55,2016-11-28,Web Development,English
+1022682,PHP Laravel 5:Creating a CRUD application,True,45,511,12,7,All Levels,0.55,2016-11-28,Web Development,Italian
 968304,XQUERY :basics for beginners,True,40,937,2,6,All Levels,0.6333333333333333,2016-09-27,Web Development,English
 180547,PHP Development with the Laravel Framework,True,50,1611,24,20,All Levels,3.5,2014-03-11,Web Development,English
 1178762,WordPress Development - Themes and Plugins Complete Guide,True,200,103,11,72,All Levels,5.5,2017-06-30,Web Development,English
@@ -3071,7 +3071,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 715516,Modern Web Development with Laravel 5.2 (PHP Framework),True,120,2142,536,71,All Levels,12.0,2016-01-24,Web Development,English
 101864,Programming for Entrepreneurs - JavaScript,True,200,12873,106,38,Beginner Level,2.5,2013-11-11,Web Development,English
 682484,Create a Website from Scratch using HTML CSS step by step,True,75,12882,95,20,Beginner Level,1.5,2015-11-27,Web Development,English
-657734,Complete AJAX Course: Learn AJAX Techniques Using Bootstrap,True,195,12368,89,26,All Levels,3.5,2015-11-13,Web Development,French
+657734,Complete AJAX Course: Learn AJAX Techniques Using Bootstrap,True,195,12368,89,26,All Levels,3.5,2015-11-13,Web Development,English
 797038,Learn jQuery by Example Course,True,170,8625,94,73,Beginner Level,5.0,2016-04-23,Web Development,English
 1099956,Bootstrap 4 Theme Development Masterclass,True,150,2641,28,15,All Levels,0.65,2017-02-24,Web Development,English
 1211800,Wordpress Theme Development for Beginners,True,20,1052,14,47,All Levels,8.0,2017-05-17,Web Development,English
@@ -3579,7 +3579,7 @@ course_id,course_title,is_paid,price,num_subscribers,num_reviews,num_lectures,le
 152244,Responsive Web Design with HTML5 and CSS3 - Introduction,True,35,770,65,84,Beginner Level,8.0,2014-01-28,Web Development,English
 591116,Master Typescript : Learn Typescript from scratch,True,95,424,45,60,All Levels,3.5,2015-10-16,Web Development,English
 969170,XSD :basics for beginners,True,35,755,0,7,All Levels,0.7,2016-09-27,Web Development,English
-572270,Angularjs-WebApi2-EFCodeFirst Web App On 3-Tier Architecture,True,60,652,48,46,Intermediate Level,6.5,2017-01-16,Web Development,Deutsch
+572270,Angularjs-WebApi2-EFCodeFirst Web App On 3-Tier Architecture,True,60,652,48,46,Intermediate Level,6.5,2017-01-16,Web Development,English
 653754,Css Positioning For Absolute Beginners: A Basic Introduction,True,65,4797,97,11,Beginner Level,1.0,2015-10-30,Web Development,English
 1034636,Creating User Authentication System in CodeIgniter,True,200,2783,9,21,All Levels,1.5,2016-12-22,Web Development,English
 169144,How to easily Manage your WordPress Website,True,20,8462,50,21,Beginner Level,2.0,2014-02-20,Web Development,English

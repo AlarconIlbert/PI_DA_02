@@ -1,0 +1,605 @@
+course_id|name|institution|language|total_reviews|total_reviewers|average_rating
+machine-learning|Machine Learning|Stanford University|English|12639|12677|4.7
+indigenous-canada|Indigenous Canada|University of Alberta|Spanish|1460|1460|4.8
+the-science-of-well-being|The Science of Well-Being|Yale University|English|8186|8199|4.9
+technical-support-fundamentals|Technical Support Fundamentals|Google|English|12051|12055|4.8
+google-cbrs-cpi-training|Become a CBRS Certified Professional Installer by Google|Google - Spectrum Sharing|English|33|33|4.8
+financial-markets-global|Financial Markets|Yale University|English|3102|3108|4.8
+introduction-psychology|Introduction to Psychology|Yale University|English|3009|3015|4.9
+python|Programming for Everybody (Getting Started with Python)|University of Michigan|English|15184|15226|4.6
+computer-networking|The Bits and Bytes of Computer Networking|Google|English|4800|4813|4.6
+ai-for-everyone|AI For Everyone|DeepLearning.AI|English|7366|7386|4.8
+python-crash-course|Crash Course on Python|Google|English|3224|3231|4.7
+psychological-first-aid|Psychological First Aid|Johns Hopkins University|English|2916|2926|4.8
+neural-networks-deep-learning|Neural Networks and Deep Learning|DeepLearning.AI|English|12263|12292|4.8
+what-is-datascience|What is Data Science?|IBM|English|7384|7397|4.6
+negotiation-skills|Successful Negotiation: Essential Strategies and Skills|University of Michigan|English|2854|2869|4.8
+uva-darden-project-management|Fundamentals of Project Planning and Management|University of Virginia|English|1128|1132|4.8
+project-management|Project Launch|University of California, Irvine|English|36|36|4.4
+brand|Brand Management: Aligning Business, Brand and Behaviour|London Business School|English|1089|1091|4.9
+sciwrite|Writing in the Sciences|Stanford University|English|1282|1286|4.9
+food-and-health|Stanford Introduction to Food and Health|Stanford University|English|4948|4965|4.7
+html-css-javascript-for-web-developers|HTML, CSS, and Javascript for Web Developers|Johns Hopkins University|English|3177|3186|4.8
+excel-essentials|Excel Skills for Business: Essentials|Macquarie University|English|7365|7377|4.9
+negotiation|Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator|Yale University|English|1034|1038|4.9
+everyday-excel-part-1|Everyday Excel, Part 1|University of Colorado Boulder|English|301|303|4.8
+learning-how-to-learn|Learning How to Learn: Powerful mental tools to help you master tough subjects|University of California San Diego|English|11840|11871|4.8
+gcp-fundamentals|Google Cloud Platform Fundamentals: Core Infrastructure|Google Cloud|English|5913|5935|4.7
+wharton-contagious-viral-marketing|Viral Marketing and How to Craft Contagious Content|University of Pennsylvania|English|1301|1303|4.8
+python-data|Python Data Structures|University of Michigan|English|11386|11422|4.8
+private-equity|Private Equity and Venture Capital|Università Bocconi|English|1100|1102|4.8
+learn-korean|First Step Korean|Yonsei University|English|5912|5993|4.9
+introduction-tensorflow|Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning|DeepLearning.AI|English|2590|2596|4.7
+os-power-user|Operating Systems and You: Becoming a Power User|Google|English|2193|2199|4.5
+open-source-tools-for-data-science|Tools for Data Science|IBM|English|2883|2887|4.0
+deep-neural-network|Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|DeepLearning.AI|English|6050|6165|4.8
+diversity-inclusion-workplace|Diversity and inclusion in the workplace|ESSEC Business School|English|119|120|4.7
+clinical-trials|Design and Interpretation of Clinical Trials|Johns Hopkins University|English|470|471|4.7
+visual-elements-user-interface-design|Visual Elements of User Interface Design|California Institute of the Arts|English|758|760|4.6
+mafash|Management of Fashion and Luxury Companies|Università Bocconi|English|949|956|4.7
+pap|Primeros Auxilios Psicológicos (PAP)|Universitat Autònoma de Barcelona|Spanish|2694|2697|4.9
+social-psychology|Social Psychology|Wesleyan University|English|1247|1251|4.8
+project-planning|Initiating and Planning Projects|University of California, Irvine|English|2946|2961|4.7
+computational-thinking-problem-solving|Computational Thinking for Problem Solving|University of Pennsylvania|English|259|259|4.6
+agile-atlassian-jira|Agile with Atlassian Jira|Atlassian|English|718|719|4.7
+fundamentals-of-graphic-design|Fundamentals of Graphic Design|California Institute of the Arts|English|2798|2815|4.8
+user-experience-design|Introduction to User Experience Design|Georgia Institute of Technology|English|776|777|4.5
+wharton-marketing|Introduction to Marketing|University of Pennsylvania|English|1868|1882|4.7
+python-for-applied-data-science-ai|Python for Data Science and AI|IBM|English|2869|2875|4.3
+uva-darden-market-analytics|Marketing Analytics|University of Virginia|English|1448|1452|4.7
+classification-vector-spaces-in-nlp|Natural Language Processing with Classification and Vector Spaces|DeepLearning.AI|English|328|328|4.4
+wharton-quantitative-modeling|Fundamentals of Quantitative Modeling|University of Pennsylvania|English|1267|1270|4.5
+remote-team-management|How to Manage a Remote Team|GitLab|English|5|5|5.0
+linear-algebra-machine-learning|Mathematics for Machine Learning: Linear Algebra|Imperial College London|English|1637|1643|4.6
+python-data-analysis|Introduction to Data Science in Python|University of Michigan|English|4891|4912|4.2
+wharton-customer-analytics|Customer Analytics|University of Pennsylvania|English|2026|2042|4.5
+introduction-psych|Introduction to Psychology|University of Toronto|English|1178|1182|4.9
+careerdevelopment|English for Career Development|University of Pennsylvania|English|2942|2953|4.9
+global-diplomacy|Global Diplomacy – Diplomacy in the Modern World|University of London|English|764|768|4.6
+sql-for-data-science|SQL for Data Science|University of California, Davis|English|1845|1851|4.5
+professional-emails-english|Write Professional Emails in English|Georgia Institute of Technology|English|3075|3090|4.8
+medical-neuroscience|Medical Neuroscience|Duke University|Spanish|531|532|4.9
+system-administration-it-infrastructure-services|System Administration and IT Infrastructure Services|Google|English|1817|1823|4.7
+womens-health-human-rights|International Women's Health and Human Rights|Stanford University|English|242|242|4.9
+childnutrition|Child Nutrition and Cooking|Stanford University|English|2105|2118|4.8
+neurobiology|Understanding the Brain: The Neurobiology of Everyday Life|The University of Chicago|English|507|507|4.9
+social-media-marketing-introduction|Introduction to Social Media Marketing|Facebook|English|48|48|4.8
+forensic-accounting|Forensic Accounting and Fraud Examination|West Virginia University|English|872|873|4.7
+clinical-terminology|Clinical Terminology for International and U.S. Students|University of Pittsburgh|English|401|401|4.8
+science-exercise|Science of Exercise|University of Colorado Boulder|English|993|994|4.8
+uva-darden-digital-product-management|Digital Product Management: Modern Fundamentals|University of Virginia|Deutsch|740|741|4.7
+datasciencemathskills|Data Science Math Skills|Duke University|English|1748|1758|4.4
+machine-learning-projects|Structuring Machine Learning Projects|DeepLearning.AI|English|4800|4885|4.7
+american-law|An Introduction to American Law|University of Pennsylvania|English|730|735|4.8
+content-marketing|The Strategy of Content Marketing|University of California, Davis|English|812|812|4.5
+introduction-cybersecurity-cyber-attacks|Introduction to Cybersecurity Tools & Cyber Attacks|IBM|English|1204|1206|4.3
+data-scientists-tools|The Data Scientist’s Toolbox|Johns Hopkins University|English|5987|6022|4.5
+animal-welfare|Animal Behaviour and Welfare|The University of Edinburgh|English|797|800|4.8
+convolutional-neural-networks-tensorflow|Convolutional Neural Networks in TensorFlow|DeepLearning.AI|English|807|807|4.5
+positive-psychology-visionary-science|Positive Psychology: Martin E. P. Seligman’s Visionary Science|University of Pennsylvania|English|1328|1328|4.9
+cancer|Introduction to the Biology of Cancer|Johns Hopkins University|English|985|992|4.8
+convolutional-neural-networks|Convolutional Neural Networks|DeepLearning.AI|English|1291|1293|3.9
+python-network-data|Using Python to Access Web Data|University of Michigan|English|6440|6485|4.7
+physiology|Introductory Human Physiology|Duke University|English|713|719|4.8
+systematic-review|Introduction to Systematic Review and Meta-Analysis|Johns Hopkins University|English|565|567|4.8
+communication-strategies-virtual-age|Communication Strategies for a Virtual Age|University of Toronto|English|856|858|4.8
+moral-politics|Moral Foundations of Politics|Yale University|English|696|698|4.9
+etudier-en-france|Étudier en France: French Intermediate course B1-B2|École Polytechnique|French|816|820|4.8
+company-future-management|Managing the Company of the Future|London Business School|English|816|818|4.8
+finance-for-non-finance|Finance for Non-Finance Professionals|Rice University|English|367|372|4.8
+site-reliability-engineering-slos|Site Reliability Engineering: Measuring and Managing Reliability|Google Cloud|English|147|147|4.2
+autism-spectrum-disorder|Autism Spectrum Disorder|University of California, Davis|Deutsch|481|482|4.6
+data-science-methodology|Data Science Methodology|IBM|English|1711|1714|4.3
+wharton-accounting|Introduction to Financial Accounting|University of Pennsylvania|English|1472|1479|4.8
+marketing-digital|Marketing in a Digital World|University of Illinois at Urbana-Champaign|English|3831|3839|4.7
+wind-energy|Wind Energy|Technical University of Denmark (DTU)|Deutsch|1251|1252|4.7
+sustainable-finance|Principles of Sustainable Finance|Erasmus University Rotterdam|English|48|48|4.8
+financial-engineering-1|Financial Engineering and Risk Management Part I|Columbia University|English|405|408|4.4
+philosophy|Introduction to Philosophy|The University of Edinburgh|English|1501|1511|4.7
+analytics-business-metrics|Business Metrics for Data-Driven Companies|Duke University|English|1457|1464|4.6
+python-basics|Python Basics|University of Michigan|English|2270|2287|4.8
+sustainability|Introduction to Sustainability|University of Illinois at Urbana-Champaign|English|568|569|4.8
+positive-psychiatry|Positive Psychiatry and Mental Health|The University of Sydney|English|547|547|4.8
+crypto|Cryptography I|Stanford University|English|667|674|4.8
+teach-online|Learning to Teach Online|UNSW Sydney (The University of New South Wales)|English|928|928|4.8
+it-security|IT Security: Defense against the digital dark arts|Google|English|1443|1446|4.8
+entreprise-changement-climatique|Entreprise et changement climatique|ESSEC Business School|French|2|2|5.0
+neuromarketing|An Introduction to Consumer Neuroscience & Neuromarketing|Copenhagen Business School|English|515|518|4.6
+gamification|Gamification|University of Pennsylvania|Italian|666|672|4.8
+contabilidad|Contabilidad para no contadores|Universidad Nacional Autónoma de México|Spanish|2524|2525|4.8
+python-operating-system|Using Python to Interact with the Operating System|Google|English|505|505|4.6
+cs-fundamentals-1|Object-Oriented Data Structures in C++|University of Illinois at Urbana-Champaign|English|383|383|4.6
+gcp-big-data-ml-fundamentals|Google Cloud Platform Big Data and Machine Learning Fundamentals|Google Cloud|English|2091|2097|4.6
+sql-data-science|Databases and SQL for Data Science|IBM|English|1326|1327|4.4
+natural-language-processing-tensorflow|Natural Language Processing in TensorFlow|DeepLearning.AI|English|677|677|4.3
+advanced-valuation-and-strategy|Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital|Erasmus University Rotterdam|English|186|187|4.6
+probabilistic-models-in-nlp|Natural Language Processing with Probabilistic Models|DeepLearning.AI|English|99|99|4.6
+vital-signs|Vital Signs: Understanding What the Body Is Telling Us|University of Pennsylvania|English|964|965|4.8
+research-methods|Understanding Research Methods|University of London|English|1311|1313|4.6
+ibm-customer-engagement-specialist|IBM Customer Engagement Specialist Professional Certificate|IBM|English|179|180|4.8
+introduction-to-calculus|Introduction to Calculus|The University of Sydney|English|550|551|4.9
+camino-excelencia-gestion-proyectos|Camino a la Excelencia en Gestión de Proyectos|Pontificia Universidad Católica de Chile|Spanish|1740|1740|4.6
+html|Introduction to HTML5|University of Michigan|English|1248|1251|4.0
+wine|Wine Tasting: Sensory Techniques for Wine Analysis|University of California, Davis|English|104|104|4.5
+excel-intermediate-1|Excel Skills for Business: Intermediate I|Macquarie University|English|2186|2194|4.9
+duke-programming-web|Programming Foundations with JavaScript, HTML and CSS|Duke University|English|2215|2225|4.5
+build-a-computer|Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)|Hebrew University of Jerusalem|English|726|733|4.9
+food-beverage-management|Food & Beverage Management|Università Bocconi|English|715|715|4.8
+data-analysis-with-python|Data Analysis with Python|IBM|English|1730|1734|4.4
+project-planning-1|Project Planning|University of California, Irvine|English|20|20|4.4
+uva-darden-getting-started-agile|Agile Meets Design Thinking|University of Virginia|English|641|641|4.8
+aws-fundamentals-going-cloud-native|AWS Fundamentals: Going Cloud-Native|Amazon Web Services|English|1796|1804|4.7
+construction-project-management|Construction Project Management|Columbia University|English|844|845|4.8
+mathematical-thinking|Introduction to Mathematical Thinking|Stanford University|English|438|444|4.8
+everyday-parenting|Everyday Parenting: The ABCs of Child Rearing|Yale University|English|592|596|4.9
+intro-to-healthcare|Introduction to Healthcare|Stanford University|English|6|6|4.0
+machine-learning-with-python|Machine Learning with Python|IBM|English|1587|1588|4.5
+terrorism|Terrorism and Counterterrorism: Comparing Theory and Practice|Universiteit Leiden|English|597|598|4.8
+clinical-data-management|Data Management for Clinical Research|Vanderbilt University|English|272|273|4.7
+sustainable-fashion|Sustainable Fashion|Copenhagen Business School|English|126|126|4.8
+data-science-k-means-clustering-python|Foundations of Data Science: K-Means Clustering in Python|University of London|English|80|80|4.6
+instructional-design-foundations-applications|Instructional Design Foundations and Applications|University of Illinois at Urbana-Champaign|English|93|93|3.9
+enlinea|Cursos en línea: modelo para armar|Universidad Nacional Autónoma de México|Spanish|58|58|4.9
+modern-art-ideas|Modern Art & Ideas|The Museum of Modern Art|Deutsch|1189|1191|4.8
+speak-english-professionally|Speak English Professionally: In Person, Online & On the Phone|Georgia Institute of Technology|English|2181|2190|4.7
+gcp-infrastructure-foundation|Essential Google Cloud Infrastructure: Foundation|Google Cloud|French|1475|1482|4.7
+introduction-to-ai|Introduction to Artificial Intelligence (AI)|IBM|English|1297|1298|4.7
+dog-emotion-and-cognition|Dog Emotion and Cognition|Duke University|English|1046|1048|4.7
+organizational-behavior|International Leadership and Organizational Behavior|Università Bocconi|English|460|460|4.8
+sdgbusiness|Driving business towards the Sustainable Development Goals|Erasmus University Rotterdam|English|97|97|4.9
+global-sustainable-development|The Sustainable Development Goals – A global, transdisciplinary vision for the future|University of Copenhagen|English|655|657|4.8
+bcg-uva-darden-digital-transformation|Digital Transformation|BCG|English|1052|1052|4.8
+nlp-sequence-models|Sequence Models|DeepLearning.AI|English|2844|2876|4.6
+entrepreneur-changement|Devenir entrepreneur du changement|HEC Paris|French|177|177|4.7
+photography|Seeing Through Photographs|The Museum of Modern Art|English|933|933|4.8
+wharton-entrepreneurship-opportunity|Entrepreneurship 1: Developing the Opportunity|University of Pennsylvania|English|687|688|4.8
+search-engine-optimization|Introduction to Search Engine Optimization|University of California, Davis|English|1648|1651|4.6
+learn-speak-korean1|Learn to Speak Korean 1|Yonsei University|English|1171|1195|4.9
+drug-development|Drug Development|University of California San Diego|English|312|313|4.5
+r-programming|R Programming|Johns Hopkins University|English|4001|4026|4.2
+money-banking|Economics of Money and Banking|Columbia University|English|281|285|4.9
+learn-chinese|Chinese for Beginners|Peking University|English|3467|3549|4.8
+grammar-punctuation|Grammar and Punctuation|University of California, Irvine|English|4496|4516|4.8
+japanese-1|Japanese for beginners 1|Saint Petersburg State University|English|36|36|3.6
+intro-common-law|Introduction to English Common Law|University of London|English|255|255|4.8
+dental-medicine-penn|Introduction to Dental Medicine|University of Pennsylvania|English|210|211|4.9
+fundamentals-of-reinforcement-learning|Fundamentals of Reinforcement Learning|Alberta Machine Intelligence Institute|English|377|377|4.7
+principles-of-macroeconomics|The Power of Macroeconomics: Economic Principles in the Real World|University of California, Irvine|English|500|504|4.6
+corp-sustainability|Corporate Sustainability. Understanding and Seizing the Strategic Opportunity|Università Bocconi|English|90|90|4.6
+duke-behavioral-finance|Behavioral Finance|Duke University|English|609|611|4.1
+tensorflow-sequences-time-series-and-prediction|Sequences, Time Series and Prediction|DeepLearning.AI|English|496|498|4.5
+supply-chain-logistics|Supply Chain Logistics|Rutgers the State University of New Jersey|English|1413|1417|4.7
+project-execution|Project Execution|University of California, Irvine|English|18|18|3.7
+nutricion-obesidad-sobrepeso|Nutrición y obesidad: control de sobrepeso|Universidad Nacional Autónoma de México|Spanish|1523|1523|4.8
+microeconomics|Microeconomics Principles|University of Illinois at Urbana-Champaign|English|367|375|4.8
+craft-of-plot|Creative Writing: The Craft of Plot|Wesleyan University|English|1046|1048|4.6
+astro|Astronomy: Exploring Time and Space|University of Arizona|English|790|790|4.9
+oilandgas|Oil & Gas Industry Operations and Markets|Duke University|English|1119|1120|4.8
+uva-darden-design-thinking-innovation|Design Thinking for Innovation|University of Virginia|English|1818|1823|4.7
+becoming-a-veterinarian|EDIVET: Do you have what it takes to be a veterinarian?|The University of Edinburgh|English|388|392|4.8
+learn-to-program|Learn to Program: The Fundamentals|University of Toronto|English|1342|1347|4.7
+uva-darden-financial-accounting|Financial Accounting Fundamentals|University of Virginia|English|413|413|4.8
+finding-purpose-and-meaning-in-life|Finding Purpose and Meaning In Life: Living for What Matters Most|University of Michigan|English|292|293|4.8
+clinical-research|Understanding Clinical Research: Behind the Statistics|University of Cape Town|English|628|630|4.8
+epidemiology|Epidemiology: The Basic Science of Public Health|The University of North Carolina at Chapel Hill|English|842|845|4.7
+fashion-design|Fashion as Design|The Museum of Modern Art|English|529|529|4.8
+teamwork-skills-effective-communication|Teamwork Skills: Communicating Effectively in Groups|University of Colorado Boulder|English|597|599|4.8
+feminism-social-justice|Feminism and Social Justice|University of California, Santa Cruz|English|778|779|4.8
+international-organizations-management|International Organizations Management|University of Geneva|English|282|282|4.8
+estrategia-marketing-digital|Marketing Digital|Universidade de São Paulo|English|430|431|4.7
+gis|Fundamentals of GIS|University of California, Davis|English|1197|1198|4.9
+elearning|e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age|University of Illinois at Urbana-Champaign|English|83|83|4.5
+excel-vba-for-creative-problem-solving-part-1|Excel/VBA for Creative Problem Solving, Part 1|University of Colorado Boulder|English|730|730|4.8
+international-taxation|Rethinking International Tax Law|Universiteit Leiden|English|211|213|4.9
+probability-intro|Introduction to Probability and Data with R|Duke University|English|1010|1014|4.6
+understanding-visualization-data|Understanding and Visualizing Data with Python|University of Michigan|English|308|308|4.5
+data-visualization-tableau|Fundamentals of Visualization with Tableau|University of California, Davis|English|954|956|4.3
+sas-programming-basics|Getting Started with SAS Programming|SAS|English|319|319|4.9
+uol-machine-learning-for-all|Machine Learning for All|University of London|English|580|583|4.7
+python-databases|Using Databases with Python|University of Michigan|English|2666|2684|4.7
+addiction-treatment|Addiction Treatment: Clinical Skills for Healthcare Providers|Yale University|English|132|133|4.9
+dino101|Dino 101: Dinosaur Paleobiology|University of Alberta|English|744|745|4.9
+sports-marketing|Sports Marketing|Northwestern University|English|215|216|4.7
+positive-psychology|Positive Psychology|The University of North Carolina at Chapel Hill|English|905|907|4.7
+matlab|Introduction to Programming with MATLAB|Vanderbilt University|English|3104|3120|4.8
+managing-human-resources|Preparing to Manage Human Resources|University of Minnesota|English|1463|1469|4.8
+solar-energy-basics|Solar Energy Basics|The State University of New York|English|406|409|4.8
+bootstrap-4|Front-End Web UI Frameworks and Tools: Bootstrap 4|The Hong Kong University of Science and Technology|English|1638|1645|4.8
+google-cloud-java-spring|Building Scalable Java Microservices with Spring Boot and Spring Cloud|Google Cloud|English|193|193|3.9
+forensic-science|Introduction to Forensic Science|Nanyang Technological University, Singapore|English|343|344|4.8
+google-cloud-product-fundamentals|Google Cloud Product Fundamentals|Google Cloud|English|92|92|4.6
+contracts-1|American Contract Law I|Yale University|English|102|102|4.9
+engineering-health-yoga-physiology|Engineering Health: Introduction to Yoga and Physiology|New York University|English|77|77|4.7
+ai-for-medical-diagnosis|AI for Medical Diagnosis|DeepLearning.AI|Italian|255|257|4.6
+sequence-models-in-nlp|Natural Language Processing with Sequence Models|DeepLearning.AI|English|62|62|4.0
+electronics|Introduction to Electronics|Georgia Institute of Technology|English|359|359|4.7
+international-humanitarian-law|International Humanitarian Law in Theory and Practice|Universiteit Leiden|English|190|191|4.8
+making-architecture|Making Architecture|IE School of Architecture & Design|English|232|232|4.8
+model-thinking|Model Thinking|University of Michigan|English|376|382|4.8
+dyslexia-difficulties|Supporting children with difficulties in reading and writing|University of London|English|368|368|4.7
+innovation-management|Innovation Management|Erasmus University Rotterdam|Italian|315|316|4.6
+people-management|The Manager's Toolkit: A Practical Guide to Managing People at Work|Birkbeck, University of London|English|510|512|4.6
+modern-world|The Modern World, Part One: Global History from 1760 to 1910|University of Virginia|English|512|514|4.8
+supply-chain-principles|Supply Chain Principles|Georgia Institute of Technology|English|331|331|4.6
+gcp-infrastructure-core-services|Essential Google Cloud Infrastructure: Core Services|Google Cloud|English|753|755|4.7
+weight-management-beyond-balancing-calories|Weight Management: Beyond Balancing Calories|Emory University|English|188|188|4.7
+human-language|Miracles of Human Language: An Introduction to Linguistics|Universiteit Leiden|English|479|483|4.7
+java-programming|Java Programming: Solving Problems with Software|Duke University|English|1115|1122|4.4
+race-cultural-diversity-american-life|Race and Cultural Diversity in American Life and History|University of Illinois at Urbana-Champaign|English|98|98|4.5
+motivate-people-teams|Inspiring and Motivating Individuals|University of Michigan|English|775|782|4.8
+competencias-digitales-ofimatica|Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)|Universitat Autònoma de Barcelona|Spanish|1108|1110|4.8
+healing-with-the-arts|Healing with the Arts|University of Florida|English|225|226|4.7
+wharton-people-analytics|People Analytics|University of Pennsylvania|English|892|893|4.5
+what-is-social|What is Social?|Northwestern University|English|886|889|4.6
+ux-design-fundamentals|UX Design Fundamentals|California Institute of the Arts|Deutsch|249|249|4.8
+creative-thinking-techniques-and-tools-for-success|Creative Thinking: Techniques and Tools for Success|Imperial College London|English|662|664|4.7
+introclassicalmusic|Introduction to Classical Music|Yale University|English|783|792|4.9
+childrens-rights|Children's Human Rights - An Interdisciplinary Introduction|University of Geneva|English|336|336|4.6
+investment-management|Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers|HEC Paris|English|126|127|4.5
+excel-data-analysis|Introduction to Data Analysis Using Excel|Rice University|English|1536|1542|4.7
+manage-health-covid-19|Mind Control: Managing Your Mental Health During COVID-19|University of Toronto|English|1495|1499|4.8
+international-criminal-law|Introduction to International Criminal Law|Case Western Reserve University|English|596|602|4.8
+wharton-fintech-overview-payments-regulations|FinTech: Foundations, Payments, and Regulations|University of Pennsylvania|English|270|270|4.6
+mythology|Greek and Roman Mythology|University of Pennsylvania|English|433|437|4.8
+global-energy|Politics and Economics of International Energy|Sciences Po|English|316|318|4.7
+uva-darden-continous-delivery-devops|Continuous Delivery & DevOps|University of Virginia|English|235|237|4.5
+english-principles|Teach English Now! Foundational Principles|Arizona State University|English|2667|2678|4.9
+business-model|Business Model Innovation|HEC Paris|Italian|83|83|4.7
+introtoux-principles-and-processes|Introduction to User Experience Principles and Processes|University of Michigan|English|191|191|4.8
+beyond-the-sustainable-development-goals-addressing-sustainability-and-development|Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development|University of Michigan|English|58|58|4.7
+process-mining|Process Mining: Data science in Action|Eindhoven University of Technology|English|199|200|4.7
+immunologyfundamentalsimmunitybcells|Fundamentals of Immunology: Innate Immunity and B-Cell Function|Rice University|English|203|203|4.8
+wharton-finance|Introduction to Corporate Finance|University of Pennsylvania|English|817|819|4.4
+global-diplomacy-un|Global Diplomacy: the United Nations in the World|University of London|English|290|290|4.7
+algorithmic-toolbox|Algorithmic Toolbox|University of California San Diego|English|1903|1912|4.5
+troubles-spectre-autisme-diagnostic|Troubles du spectre de l'autisme : diagnostic|University of Geneva|French|94|94|4.9
+anatomy403-1x|Anatomy: Musculoskeletal and Integumentary Systems|University of Michigan|English|251|251|4.8
+crash-course-in-causality|A Crash Course in Causality:  Inferring Causal Effects from Observational Data|University of Pennsylvania|English|92|92|4.6
+business|English for Business and Entrepreneurship|University of Pennsylvania|English|1091|1096|4.9
+attention-models-in-nlp|Natural Language Processing with Attention Models|DeepLearning.AI|English|21|21|3.3
+what-is-compliance|What is Compliance?|University of Pennsylvania|English|119|119|4.8
+getting-started-with-google-sheets|Getting Started with Google Sheets|Google Cloud|English|184|185|4.6
+python-for-data-visualization|Data Visualization with Python|IBM|English|1125|1127|4.0
+foundations-of-mindfulness|Foundations of Mindfulness|Rice University|English|39|39|4.8
+negociacion|Negociación exitosa: Estrategias y habilidades esenciales (en español)|University of Michigan|Spanish|714|715|4.8
+decision-making|Data-driven Decision Making|PwC|English|944|946|4.5
+fe-exam|Fundamentals of Engineering Exam Review|Georgia Institute of Technology|English|130|132|4.4
+gender-sexuality|Gender and Sexuality: Diversity and Inclusion in the Workplace|University of Pittsburgh|English|122|123|4.7
+uva-darden-managerial-accounting|Managerial Accounting Fundamentals|University of Virginia|English|77|77|4.9
+seo-fundamentals|Search Engine Optimization Fundamentals|University of California, Davis|English|470|471|4.7
+essentials-global-health|Essentials of Global Health|Yale University|English|281|281|4.9
+international-security-management|International Security Management|Erasmus University Rotterdam|English|79|79|4.7
+aws-machine-learning|Getting Started with AWS Machine Learning|Amazon Web Services|English|1152|1154|4.4
+arts-heritage|Arts and Heritage Management|Università Bocconi|English|184|184|4.8
+einstein-relativity|Understanding Einstein: The Special Theory of Relativity|Stanford University|English|693|694|4.9
+reussir-le-changement|Réussir le Changement|ESSEC Business School|French|433|434|4.4
+equine|Equine Welfare and Management|University of California, Davis|French|56|56|4.9
+international-migrations|International migrations: a global issue|Sciences Po|English|60|60|4.3
+web-development|Introduction to Web Development|University of California, Davis|English|623|626|4.7
+writing-editing-words|Writing and Editing: Word Choice and Word Order|University of Michigan|English|105|105|4.7
+digital-advertising-landscape|Introduction to the Digital Advertising Landscape|University of Colorado Boulder|English|45|45|4.5
+access-control-sscp|Access Controls|(ISC)²|English|44|45|4.5
+initiating-planning|Engineering Project Management: Initiating and Planning|Rice University|English|470|471|4.8
+kotlin-for-java-developers|Kotlin for Java Developers|JetBrains|English|321|321|4.6
+multivariate-calculus-machine-learning|Mathematics for Machine Learning: Multivariate Calculus|Imperial College London|English|694|696|4.6
+introduction-git-github|Introduction to Git and GitHub|Google|English|686|687|4.8
+industrial-biotech|Industrial Biotechnology|University of Manchester   |English|359|359|4.6
+addiction-and-the-brain|The Addicted Brain|Emory University|English|437|438|4.5
+aprendiendo-programar-python|Introducción a la programación en Python I: Aprendiendo a programar con Python|Pontificia Universidad Católica de Chile|Spanish|970|970|4.2
+data-lakes-data-warehouses-gcp|Modernizing Data Lakes and Data Warehouses with GCP|Google Cloud|English|225|225|4.6
+drug-discovery|Drug Discovery|University of California San Diego|Deutsch|386|386|4.6
+nutrition-pregnancy|Nutrition and Lifestyle in Pregnancy|Ludwig-Maximilians-Universität München (LMU)|English|465|465|4.8
+finance-healthcare-managers|Financial Acumen for Non-Financial Managers|University of Pennsylvania|English|107|107|4.3
+python-statistics-financial-analysis|Python and Statistics for Financial Analysis|The Hong Kong University of Science and Technology|English|436|437|4.3
+bugs-101|Bugs 101: Insect-Human Interactions|University of Alberta|English|297|297|5.0
+autodesk-revit-architectural-design|Autodesk Certified Professional: Revit for Architectural Design Exam Prep|Autodesk|English|107|107|4.7
+leading-for-equity-diversity-inclusion|Leading for Equity, Diversity and Inclusion in Higher Education|University of Michigan|English|38|38|4.7
+enterprise-architecture|Enterprise Architecture|Peter the Great St. Petersburg Polytechnic University|English|33|33|4.5
+wharton-introduction-spreadsheets-models|Introduction to Spreadsheets and Models|University of Pennsylvania|English|572|572|3.6
+human-needs|The Arts and Science of Relationships: Understanding Human Needs|University of Toronto|English|282|283|4.4
+clinicalsimulations|Essentials in Clinical Simulations Across the Health Professions|The George Washington University|English|158|158|4.8
+schedule-projects|Budgeting and Scheduling Projects|University of California, Irvine|English|883|887|4.7
+machine-learning-business-professionals|Machine Learning for Business Professionals|Google Cloud|English|873|874|4.6
+intro-accounting-data-analytics-visual|Introduction to Accounting Data Analytics and Visualization|University of Illinois at Urbana-Champaign|English|43|43|4.9
+spanish-vocabulary-meeting-people|Spanish Vocabulary: Meeting People|University of California, Davis|English|476|478|4.5
+gestionempresarialpyme|Gestión Empresarial Exitosa para Pymes|Pontificia Universidad Católica de Chile|Spanish|1761|1764|4.9
+public-policy|Public Policy Challenges of the 21st Century|University of Virginia|English|271|272|4.6
+arbitration-international-disputes|International Law in Action: the Arbitration of International Disputes|Universiteit Leiden|English|100|102|4.9
+introancientegypt|Introduction to Ancient Egypt and Its Civilization|University of Pennsylvania|English|556|558|4.6
+infrastructure-investing|Financing and Investing in Infrastructure|Università Bocconi|English|356|356|4.8
+global-environmental-management|Global Environmental Management|Technical University of Denmark (DTU)|English|283|283|4.7
+wharton-operations-analytics|Operations Analytics|University of Pennsylvania|English|829|830|4.7
+entrepreneurship-strategy|Entrepreneurship Strategy: From Ideation to Exit|HEC Paris|English|6|6|1.0
+fintechlawandpolicy|FinTech Law and Policy|Duke University|English|109|109|4.8
+mental-health|The Social Context of Mental Health and Illness|University of Toronto|English|83|83|4.6
+contemporary-art|What Is Contemporary Art?|The Museum of Modern Art|English|292|292|4.8
+producing-music|The Art of Music Production|Berklee College of Music|English|430|431|4.8
+biohacking-your-brains-health|Biohacking Your Brain's Health|Emory University|English|237|237|4.7
+bayesian-statistics|Bayesian Statistics: From Concept to Data Analysis|University of California, Santa Cruz|English|639|640|4.4
+reporting-extra-financier-strategie-rse|Reporting extra-financier et stratégie RSE|ESSEC Business School|French|53|53|4.6
+quality-healthcare|Leading Healthcare Quality and Safety|The George Washington University|English|185|186|4.8
+international-relations-theory|Understanding International Relations Theory|National Research University Higher School of Economics|English|106|106|4.6
+introduction-to-data-analytics|Introduction to Data Analytics|IBM|English|18|18|4.8
+excel-para-negocios|Fundamentos de Excel para Negocios|Universidad Austral|Spanish|1244|1250|4.8
+gcp-infrastructure-scaling-automation|Elastic Google Cloud Infrastructure: Scaling and Automation|Google Cloud|English|654|657|4.6
+cultural-competence-aboriginal-sydney|Cultural Competence - Aboriginal Sydney|The University of Sydney|English|44|44|4.8
+finanzas-empresariales|Fundamentos de Finanzas Empresariales|Universidad de los Andes|Spanish|1438|1442|4.9
+gte-sustainable-cities|Greening the Economy: Sustainable Cities|Lund University|English|596|597|4.6
+engineering-mechanics-statics|Introduction to Engineering Mechanics|Georgia Institute of Technology|English|726|730|4.8
+design-strategy|Design-Led Strategy: Design thinking for business strategy and entrepreneurship|The University of Sydney|English|135|135|4.6
+bioinformatics|Biology Meets Programming: Bioinformatics for Beginners|University of California San Diego|English|303|307|4.1
+medical-research|Understanding Medical Research: Your Facebook Friend is Wrong|Yale University|English|267|267|4.9
+health-behavior-change|Health Behavior Change: From Evidence to Action|Yale University|English|27|27|4.9
+cs-fundamentals-2|Ordered Data Structures|University of Illinois at Urbana-Champaign|English|97|97|4.7
+mindshift|Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential|McMaster University|English|2724|2727|4.8
+programming-fundamentals|Programming Fundamentals|Duke University|Deutsch|1245|1251|4.6
+understanding-financial-markets|Understanding Financial Markets|University of Geneva|English|855|856|4.7
+painting|In the Studio: Postwar Abstract Painting|The Museum of Modern Art|English|460|460|4.9
+drug-commercialization|Drug Commercialization|University of California San Diego|Italian|150|151|4.6
+introduction-to-software-product-management|Introduction to Software Product Management|University of Alberta|English|1076|1077|4.5
+norms|Social Norms, Social Change I|Unicef|English|389|391|4.6
+excel-intermediate-2|Excel Skills for Business: Intermediate II|Macquarie University|English|1005|1009|4.7
+aboriginal-education|Aboriginal Worldviews and Education|University of Toronto|English|67|67|4.6
+information-systems-audit|Information Systems Auditing, Controls and Assurance|The Hong Kong University of Science and Technology|English|227|227|4.7
+six-sigma-principles|Six Sigma Principles|University System of Georgia|English|979|982|4.5
+writing-for-business|Business Writing|University of Colorado Boulder|English|808|811|4.8
+autodesk-autocad-design-drafting|Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep|Autodesk|English|319|321|4.7
+typography|Introduction to Typography|California Institute of the Arts|English|809|810|4.8
+customer-segmentation-prospecting|Customer Segmentation and Prospecting|Northwestern University|English|161|162|4.7
+gestionar-personas|Claves para Gestionar Personas|IESE Business School|Spanish|643|646|4.8
+journalism|English for Journalism|University of Pennsylvania|English|603|604|4.8
+how-things-work|How Things Work: An Introduction to Physics|University of Virginia|English|614|620|4.8
+business-english-intro|Business English: Networking|University of Washington|English|572|573|4.8
+summary-statistics|Summary Statistics in Public Health|Johns Hopkins University|English|233|233|4.8
+globalenergyandclimatepolicy|Global Energy and Climate Policy|University of London|English|103|103|4.6
+legaltech|El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho|Universidad Austral|Spanish|125|125|5.0
+probability-statistics|Probability and Statistics: To p or not to p?|University of London|English|336|336|4.7
+microbiome|Gut Check: Exploring Your Microbiome|University of Colorado Boulder|English|251|251|4.7
+erasmus-econometrics|Econometrics: Methods and Applications|Erasmus University Rotterdam|English|199|200|4.5
+golang-webservices-1|Разработка веб-сервисов на Go - основы языка|Moscow Institute of Physics and Technology|Russian|92|94|4.7
+analytics-excel|Mastering Data Analysis in Excel|Duke University|English|794|797|3.7
+basic-statistics|Basic Statistics|University of Amsterdam|English|829|833|4.6
+python-data-visualization|Capstone: Retrieving, Processing, and Visualizing Data with Python|University of Michigan|English|1289|1295|4.5
+uva-darden-design-thinking-social-sector|Design Thinking for the Greater Good: Innovation in the Social Sector|University of Virginia|English|84|84|4.6
+introduction-portfolio-construction-python|Introduction to Portfolio Construction and Analysis with Python|EDHEC Business School|English|194|195|4.8
+data-analytics-for-lean-six-sigma|Data Analytics for Lean Six Sigma|University of Amsterdam|English|679|679|4.9
+refugees-21st-century|Refugees in the 21st Century|University of London|English|60|60|4.8
+containerized-apps-on-aws|Building Containerized Applications on AWS|Amazon Web Services|English|44|44|4.3
+business-transformation-google-cloud|Business Transformation with Google Cloud|Google Cloud|English|181|181|4.7
+version-control-with-git|Version Control with Git|Atlassian|English|466|467|4.7
+transmedia-storytelling|Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences|UNSW Sydney (The University of New South Wales)|English|169|169|4.7
+excel-aplicado-negocios-avanzado|Excel aplicado a los negocios (Nivel Avanzado)|Universidad Austral|Spanish|638|642|4.7
+public-speaking|Introduction to Public Speaking|University of Washington|English|406|406|4.8
+conversational-experiences-dialogflow|Building Conversational Experiences with Dialogflow|Google Cloud|English|229|229|4.2
+guitar|Guitar for Beginners|Berklee College of Music|English|527|534|4.7
+project-risk-management|Managing Project Risks and Changes|University of California, Irvine|English|808|811|4.8
+excellence-operationnelle|L'excellence opérationnelle en pratique|ESSEC Business School|French|98|98|4.7
+introduction-to-cloud|Introduction to Cloud Computing|IBM|English|83|83|4.8
+sample-based-learning-methods|Sample-based Learning Methods|Alberta Machine Intelligence Institute|English|149|149|4.4
+progfun1|Functional Programming Principles in Scala|École Polytechnique Fédérale de Lausanne|English|1432|1435|4.7
+introduction-blockchain-technologies|Introduction to Blockchain Technologies|INSEAD|English|302|302|4.7
+environmental-law|Introduction to Environmental Law and Policy|The University of North Carolina at Chapel Hill|English|520|523|4.9
+exposure-photography|Cameras, Exposure, and Photography|Michigan State University|English|1066|1071|4.7
+democracia|Democracia y decisiones públicas. Introducción al análisis de políticas públicas|Universitat Autònoma de Barcelona|Spanish|436|436|4.9
+dentistry101|Dentistry 101|University of Michigan|English|32|32|4.8
+python-functions-files-dictionaries|Python Functions, Files, and Dictionaries|University of Michigan|English|533|535|4.8
+anticorrupcion-introduccion|Anticorrupción: Introducción a conceptos y perspectiva práctica|Universidad Nacional Autónoma de México|Spanish|385|385|4.9
+positive-psychology-applications|Positive Psychology: Applications and Interventions|University of Pennsylvania|English|398|398|4.7
+introduction-embedded-systems|Introduction to Embedded Systems Software and Development Environments|University of Colorado Boulder|English|109|109|4.3
+family-planning|Personal & Family Financial Planning|University of Florida|English|380|380|4.6
+law-student|A Law Student's Toolkit|Yale University|English|289|291|4.7
+intro-data-science-programacion-estadistica-r|Introducción a Data Science: Programación Estadística con R|Universidad Nacional Autónoma de México|Spanish|2390|2393|4.7
+cybersecurity-roles-processes-operating-system-security|Cybersecurity Roles, Processes & Operating System Security|IBM|English|343|344|4.4
+computational-neuroscience|Computational Neuroscience|University of Washington|Italian|176|178|4.5
+smart-cities|Smart Cities – Management of Smart Urban Infrastructures|École Polytechnique Fédérale de Lausanne|English|222|222|4.6
+golang-getting-started|Getting Started with Go|University of California, Irvine|English|314|314|4.4
+intro-economic-theories|Introduction to Economic Theories|Erasmus University Rotterdam|English|44|44|4.1
+principles-of-microeconomics|The Power of Microeconomics: Economic Principles in the Real World|University of California, Irvine|English|266|270|4.6
+personal-branding|Introduction to Personal Branding|University of Virginia|English|1972|1976|4.4
+love-social-justice|Love as a Force for Social Justice|Stanford University|English|73|73|4.7
+what-is-a-proof|Mathematical Thinking in Computer Science|University of California San Diego|English|353|353|4.2
+genetics-evolution|Introduction to Genetics and Evolution|Duke University|English|261|263|4.8
+python-osnovy-programmirovaniya|Основы программирования на Python|National Research University Higher School of Economics|Russian|517|524|4.3
+wharton-communication-skills|Improving Communication Skills|University of Pennsylvania|English|356|360|4.7
+introduction-trading-machine-learning-gcp|Introduction to Trading, Machine Learning & GCP|New York Institute of Finance|English|138|138|3.5
+python-programming-introduction|Python Programming: A Concise Introduction|Wesleyan University|English|1158|1161|4.7
+modern-world-2|The Modern World, Part Two: Global History since 1910|University of Virginia|English|289|290|4.8
+plantknows|Understanding Plants - Part I: What a Plant Knows|Tel Aviv University|English|338|339|4.8
+excel-data-analysis-fundamentals|Excel Fundamentals for Data Analysis|Macquarie University|English|97|97|4.6
+finanzas-personales|Finanzas personales|Universidad Nacional Autónoma de México|Spanish|2588|2590|4.8
+english-composition|English Composition I|Duke University|English|178|179|4.6
+healthcarejobs|Career 911: Your Future Job in Medicine and Healthcare|Northwestern University|English|11|11|4.3
+intro-self-driving-cars|Introduction to Self-Driving Cars|University of Toronto|English|330|332|4.6
+corporate-commercial-law-part1|Corporate & Commercial Law I: Contracts & Employment Law|University of Illinois at Urbana-Champaign|English|108|108|4.8
+blockchain-basics|Blockchain Basics|University at Buffalo|English|1110|1111|4.5
+uva-darden-foundations-business-strategy|Foundations of Business Strategy|University of Virginia|English|453|454|4.8
+ciencia-computacao-python-conceitos|Introdução à Ciência da Computação com Python Parte 1|Universidade de São Paulo|Portuguese|1419|1419|4.9
+stochasticprocesses|Stochastic processes|National Research University Higher School of Economics|English|83|83|4.2
+foundations-big-data-analysis-sql|Foundations for Big Data Analysis with SQL|Cloudera|English|157|157|4.8
+innovation-through-design|Innovation Through Design: Think, Make, Break, Repeat|The University of Sydney|English|94|95|4.8
+perfect-tenses-modals|Perfect Tenses and Modals|University of California, Irvine|English|724|726|4.8
+cloud-azure-intro|Getting Started with Azure|LearnQuest|English|63|63|4.3
+moralities|Moralities of Everyday Life|Yale University|English|570|572|4.8
+revisao-sistematica|Revisão Sistemática e Meta-análise|Universidade Estadual de Campinas|Portuguese|468|469|4.9
+child-development|Understanding child development: from synapse to society|Utrecht University|English|44|44|4.6
+introduction-g-suite|Introduction to G Suite|Google Cloud|English|347|347|4.6
+aprendiendo-a-aprender|Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn)|University of California San Diego|Spanish|3083|3090|4.9
+batch-data-pipelines-gcp|Building Batch Data Pipelines on GCP|Google Cloud|English|129|129|4.3
+financial-planning|Financial Planning for Young Adults|University of Illinois at Urbana-Champaign|English|81|82|4.4
+quantitative-methods|Quantitative Methods|University of Amsterdam|English|563|565|4.7
+self-determination-theory|Introduction to Self-Determination Theory: An approach to motivation, development and wellness|University of Rochester|English|75|76|4.9
+technology-of-music-production|The Technology of Music Production|Berklee College of Music|English|235|235|4.9
+intro-programming|Code Yourself! An Introduction to Programming|The University of Edinburgh|English|670|672|4.8
+wharton-success|Success|University of Pennsylvania|Italian|267|268|4.9
+chemicals-health|Chemicals and Health|Johns Hopkins University|English|193|196|4.8
+statistical-inferences|Improving your statistical inferences|Eindhoven University of Technology|English|195|195|4.9
+finance-fundamentals|Fundamentals of Finance|University of Pennsylvania|English|9|9|3.9
+google-machine-learning|How Google does Machine Learning|Google Cloud|English|959|963|4.5
+object-oriented-design|Object-Oriented Design|University of Alberta|English|281|282|4.5
+introduction-intellectual-property|Introduction to Intellectual Property|University of Pennsylvania|English|80|81|4.8
+uva-darden-bcg-pricing-strategy-cost-economics|Cost and Economics in Pricing Strategy|BCG|English|116|116|4.8
+write-a-feature-length-screenplay-for-film-or-television|Write A Feature Length Screenplay For Film Or Television|Michigan State University|English|32|32|4.6
+marketing-gerencial|Marketing Gerencial|Universidad de Chile|English|743|743|4.7
+corporate-finance-essentials|Corporate Finance Essentials|IESE Business School|English|572|575|4.9
+information-security-data|Information Security: Context and Introduction|Royal Holloway, University of London|English|344|344|4.7
+trunk-anatomy|Anatomy of the Chest, Abdomen, and Pelvis|Yale University|English|228|228|4.8
+introcss|Introduction to CSS3|University of Michigan|English|1514|1515|4.8
+applied-data-science-capstone|Applied Data Science Capstone|IBM|English|580|581|4.5
+droits-de-lhomme|Introduction aux Droits de l’Homme|University of Geneva|French|416|416|4.9
+programming-languages|Programming Languages, Part A|University of Washington|English|385|393|4.9
+big-history|Big History: Connecting Knowledge|Macquarie University|English|373|374|4.8
+leadership-21st-century|Leadership in 21st Century Organizations|Copenhagen Business School|English|235|236|4.7
+software-processes-and-agile-practices|Software Processes and Agile Practices|University of Alberta|English|659|661|4.7
+devops-culture-and-mindset|DevOps Culture and Mindset|University of California, Davis|English|74|74|4.8
+introduction-statistics-data-analysis-public-health|Introduction to Statistics & Data Analysis in Public Health|Imperial College London|English|157|157|4.7
+discrete-optimization|Discrete Optimization|The University of Melbourne|English|120|120|4.8
+c-plus-plus-white|Основы разработки на C++: белый пояс|Moscow Institute of Physics and Technology|Russian|334|344|4.7
+covid-19-contact-tracing-for-nursing-professionals|COVID-19 Contact Tracing For Nursing Professionals|University of Houston|English|6|7|4.4
+high-stakes-leadership|High Stakes Leadership: Leading in Times of Crisis|University of Michigan|English|27|27|4.8
+epidemiology-tools|Essential Epidemiologic Tools for Public Health Practice|Johns Hopkins University|English|458|458|4.6
+epigenetics|Epigenetic Control of Gene Expression|The University of Melbourne|English|6|6|1.0
+recruiting-hiring-onboarding-employees|Recruiting, Hiring, and Onboarding Employees|University of Minnesota|English|192|192|3.8
+aws-fundamentals-addressing-security-risk|AWS Fundamentals: Addressing Security Risk|Amazon Web Services|English|252|252|4.2
+plato|Ancient Philosophy: Plato & His Predecessors|University of Pennsylvania|English|76|76|4.1
+social-innovation|Becoming a changemaker: Introduction to Social Innovation|University of Cape Town|English|58|58|4.2
+spanish-in-healthcare-settings|Spanish for Successful Communication in Healthcare Settings|Rice University|English|6|6|4.0
+change-management|Leading transformations: Manage change|Macquarie University|English|55|55|4.3
+systems-engineering|Introduction to Systems Engineering|UNSW Sydney (The University of New South Wales)|English|82|82|4.7
+mcmc-bayesian-statistics|Bayesian Statistics: Techniques and Models|University of California, Santa Cruz|English|107|107|4.8
+humanrights|Human Rights for Open Societies|Utrecht University|English|73|73|4.8
+introduction-to-computers-and-office-productivity-software|Introduction to Computers and Office Productivity Software|The Hong Kong University of Science and Technology|English|35|35|4.6
+quantum-computing-algorithms|The Introduction to Quantum Computing|Saint Petersburg State University|English|44|44|3.2
+intercultural|Intercultural Management|ESCP Business School|English|62|63|4.4
+getinmooc|Get Interactive: Practical Teaching with Technology|University of London|English|178|178|4.8
+global-financial-markets-instruments|Global Financial Markets and Instruments|Rice University|English|261|263|4.3
+write-your-first-novel|Write Your First Novel|Michigan State University|English|20|20|3.8
+enfant-developpement|Développement psychologique de l'enfant|University of Geneva|French|107|107|4.9
+songwriting-lyrics|Songwriting: Writing the Lyrics|Berklee College of Music|English|176|176|4.8
+python-plotting|Applied Plotting, Charting & Data Representation in Python|University of Michigan|English|855|858|4.3
+systems-thinking|Systems Thinking In Public Health|Johns Hopkins University|English|144|144|4.5
+excel-advanced|Excel Skills for Business: Advanced|Macquarie University|English|797|800|4.7
+neuroeconomics|Introduction to Neuroeconomics: How the Brain Makes Decisions|National Research University Higher School of Economics|English|279|279|4.6
+community-organizing|Community Organizing for Social Justice|University of Michigan|English|32|32|4.5
+nand2tetris2|Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)|Hebrew University of Jerusalem|English|92|93|5.0
+global-financial-crisis|The Global Financial Crisis|Yale University|English|406|409|4.9
+upravleniya-proektami-agile-scrum|Agile и Scrum в работе над проектами и продуктами|E-Learning Development Fund|Russian|44|44|4.7
+renewable-energy-entrepreneurship|Renewable Energy and Green Building Entrepreneurship|Duke University|English|388|389|4.7
+the-cycle|The Cycle: Management of Successful Arts and Cultural Organizations|University of Maryland, College Park|English|107|108|4.9
+privacy-law-data-protection|Privacy Law and Data Protection|University of Pennsylvania|English|64|64|4.8
+building-modern-python-applications-on-aws|Building Modern Python Applications on AWS|Amazon Web Services|English|1|1|5.0
+digital-business-models|Digital Business Models|Lund University|Deutsch|109|109|4.5
+everyday-excel-part-2|Everyday Excel, Part 2|University of Colorado Boulder|English|40|40|5.0
+cloud-infrastructure-design-process|Reliable Google Cloud Infrastructure: Design and Process|Google Cloud|English|546|549|4.7
+introduction-to-computer-programming|Introduction to Computer Programming|University of London|English|138|138|3.9
+big-data-essentials|Big Data Essentials: HDFS, MapReduce and Spark RDD|Yandex|English|126|126|3.5
+dermatology|Dermatology: Trip to skin|Novosibirsk State University |English|77|77|4.1
+sustainable-tourism|Sustainable Tourism – promoting environmental public health|University of Copenhagen|English|242|242|4.5
+contact-tracing-for-covid-19|Population Health During A Pandemic: Contact Tracing and Beyond|University of Houston|English|118|118|4.8
+social-impact|Social Impact Strategy: Tools for Entrepreneurs and Innovators|University of Pennsylvania|English|227|228|4.9
+c-for-everyone|C for Everyone: Programming Fundamentals|University of California, Santa Cruz|English|836|842|4.5
+intro-sql|Introduction to Structured Query Language (SQL)|University of Michigan|English|711|713|4.7
+social-economic-networks|Social and Economic Networks:  Models and Analysis|Stanford University|English|6|6|1.0
+cats-and-dogs|The Truth About Cats and Dogs|The University of Edinburgh|English|425|426|4.8
+sports-society|Sports and Society|Duke University|English|216|216|4.9
+ds|Fundamentals of Scalable Data Science|IBM|English|354|355|4.0
+effective-compliance-programs|Effective Compliance Programs|University of Pennsylvania|English|53|53|4.9
+transformation-global-food-system|Transformation of the Global Food System|University of Copenhagen|English|69|71|4.8
+django-database-web-apps|Web Application Technologies and Django|University of Michigan|English|131|132|4.6
+curanderismo-plants|Curanderismo: Traditional Healing Using Plants|University of New Mexico|English|6|6|1.0
+python-machine-learning|Applied Machine Learning in Python|University of Michigan|English|1166|1171|4.5
+troubleshooting-debugging-techniques|Troubleshooting and Debugging Techniques|Google|English|179|179|4.2
+introduction-programming-unity|Introduction to C# Programming and Unity|University of Colorado System|English|396|397|4.7
+correccion-estilo-variaciones|Corrección, estilo y  variaciones de la lengua española|Universitat Autònoma de Barcelona|Spanish|368|368|4.7
+fondamentaux-negociation|Les Fondamentaux de la Négociation|ESSEC Business School|French|73|73|4.9
+success|The Science of Success: What Researchers Know that You Should Know|University of Michigan|English|552|553|4.8
+finance-for-non-financial-managers|Finance for Non-Financial Managers|Emory University|English|69|69|4.1
+music-theory|Getting Started With Music Theory|Michigan State University|English|182|182|4.3
+horse-care|The Horse Course: Introduction to Basic Care and Management|University of Florida|English|270|270|4.9
+verb-passives|Verb Tenses and Passives|University of California, Irvine|Deutsch|329|330|4.7
+gestion-organizaciones-efectivas|Gestión de organizaciones efectivas|Pontificia Universidad Católica de Chile|Spanish|614|615|4.8
+big-data-introduction|Introduction to Big Data|University of California San Diego|English|2011|2018|4.6
+contrats|Rédaction de contrats|University of Geneva|French|139|141|4.8
+philosophy-cognitive-sciences|Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences|The University of Edinburgh|English|219|219|4.6
+schizophrenia|Schizophrenia|Wesleyan University|Deutsch|223|223|4.7
+ecology-conservation|Ecology: Ecosystem Dynamics and Conservation|Howard Hughes Medical Institute |English|508|508|4.9
+game-development|Introduction to Game Development|Michigan State University|English|1261|1262|4.8
+practical-time-series-analysis|Practical Time Series Analysis|The State University of New York|English|310|310|4.5
+vlsi-cad-logic|VLSI CAD Part I: Logic|University of Illinois at Urbana-Champaign|Italian|76|76|4.7
+google-kubernetes-engine|Getting Started with Google Kubernetes Engine|Google Cloud|English|631|639|4.2
+gcp-exploring-preparing-data-bigquery|Exploring ​and ​Preparing ​your ​Data with BigQuery|Google Cloud|English|328|328|4.5
+six-sigma-organization-advanced|Six Sigma and the Organization (Advanced)|University System of Georgia|English|406|406|4.7
+social-work-practice-advocating-social-justice-and-change|Social Work Practice: Advocating Social Justice and Change|University of Michigan|English|5|5|4.8
+machine-learning-duke|Introduction to Machine Learning|Duke University|English|215|215|4.7
+wharton-launching-startup|Entrepreneurship 2: Launching your Start-Up|University of Pennsylvania|English|226|226|4.8
+nanotechnology|Nanotechnology: A Maker’s Course|Duke University|English|450|450|4.8
+creative-problem-solving|Creative Problem Solving|University of Minnesota|English|512|513|4.5
+sleep|Sleep: Neurobiology, Medicine, and Society|University of Michigan|English|72|72|4.7
+covid-19-what-you-need-to-know|COVID-19: What You Need to Know (CME Eligible)|Osmosis|English|1339|1347|4.8
+classical-sociological-theory|Classical Sociological Theory|University of Amsterdam|English|510|515|4.9
+electricity|Electric Industry Operations and Markets|Duke University|English|164|164|4.7
+preparing-cloud-professional-cloud-architect-exam|Preparing for the Google Cloud Professional Cloud Architect Exam|Google Cloud|English|157|158|4.4
+powerpoint-presentations|Effective Business Presentations with Powerpoint|PwC|English|157|158|4.6
+wharton-financial-accounting|More Introduction to Financial Accounting|University of Pennsylvania|English|93|95|4.8
+wharton-cryptocurrency-blockchain-introduction-digital-currency|Cryptocurrency and Blockchain: An Introduction to Digital Currencies|University of Pennsylvania|English|130|130|4.5
+understanding-arguments|Think Again I: How to Understand Arguments|Duke University|English|580|583|4.6
+develop-your-musicianship|Developing Your Musicianship|Berklee College of Music|English|308|309|4.8
+wharton-operations|Introduction to Operations Management|University of Pennsylvania|English|461|468|4.3
+oralcavity|The Oral Cavity: Portal to Health and Disease|University of Pennsylvania|English|92|92|4.9
+preparing-cloud-associate-cloud-engineer-exam|Preparing for the Google Cloud Associate Cloud Engineer Exam|Google Cloud|English|248|251|4.5
+neuroscience-neuroimaging|Fundamental Neuroscience for Neuroimaging|Johns Hopkins University|Italian|317|319|4.6
+european-law-fundamentals|European Business Law: Understanding the Fundamentals|Lund University|English|141|141|4.7
+teachlanguageonline|Teach English Now! Teaching Language Online|Arizona State University|English|79|79|4.5
+front-end-react|Front-End Web Development with React|The Hong Kong University of Science and Technology|English|572|574|4.6
+music-business-foundations|Music Business Foundations|Berklee College of Music|English|459|459|4.9
+intro-business-analytics|Introduction to Business Analytics: Communicating with Data|University of Illinois at Urbana-Champaign|English|103|103|4.6
+ml-foundations|Machine Learning Foundations: A Case Study Approach|University of Washington|English|2676|2692|4.5
+accounting-analytics|Accounting Analytics|University of Pennsylvania|English|464|468|4.4
+strategic-business-management-microeconomics|Strategic Business Management - Microeconomics|University of California, Irvine|English|28|28|4.8
+epidemic-pandemic-outbreak|Epidemics, Pandemics and Outbreaks|University of Pittsburgh|English|467|468|4.7
+roman-architecture|Roman Architecture|Yale University|English|127|127|4.9
+data-management|Research Data Management and Sharing|The University of Edinburgh|English|127|128|4.7
+introduction-genomics|Introduction to Genomic Technologies|Johns Hopkins University|English|473|475|4.5
+strategic-management|Strategic Management|Copenhagen Business School|English|748|750|4.8
+cybersecurity-compliance-framework-system-administration|Cybersecurity Compliance Framework & System Administration|IBM|English|176|176|4.5
+legal-tech-startups|Legal Tech & Startups|IE Business School|Deutsch|44|44|4.4
+intro-chemistry|Introduction to Chemistry:  Reactions and Ratios|Duke University|English|177|177|4.8
+stem-cells|The Science of Stem Cells|American Museum of Natural History|English|315|316|4.7
+the-business-of-product-management-one|The Business of Product Management I|Advancing Women in Product|English|5|5|4.6
+positive-psychology-resilience|Positive Psychology: Resilience Skills|University of Pennsylvania|English|493|493|4.9
+ai-for-medical-prognosis|AI for Medical Prognosis|DeepLearning.AI|Spanish|87|87|4.7
+antibiotic-stewardship|Antibiotic Stewardship|Stanford University|English|36|37|4.2
+ux-ui-design-de-interface|UX / UI: Fundamentos para o design de interface|Universidade de São Paulo|Spanish|126|126|4.3
+emt-foundations|EMT Foundations|University of Colorado System|English|122|122|4.8
+iiot-google-cloud-platform|Industrial IoT on Google Cloud Platform|Google Cloud|English|584|585|4.5
+ibm-penetration-testing-incident-response-forensics|Penetration Testing, Incident Response and Forensics|IBM|English|85|85|4.4
+database-management|Database Management Essentials|University of Colorado System|English|540|540|4.5
+role-of-advertising|Advertising and Society|Duke University|English|148|149|4.8
+everyday-chinese-medicine|Everyday Chinese Medicine|The Chinese University of Hong Kong|English|171|172|4.7
+fundamental-machine-learning-healthcare|Fundamentals of Machine Learning for Healthcare|Stanford University|English|10|10|4.9
+countering-terror-violent-extremism|New Approaches to Countering Terror: Countering Violent Extremism|University of Maryland, College Park|English|25|25|4.8
+magic-middle-ages|Magic in the Middle Ages|Universitat de Barcelona|English|379|379|4.5
+challenging-forensic-science|Challenging Forensic Science: How Science Should Speak to Court|University of Lausanne|English|67|67|4.9
+exploring-renewable-energy|Exploring Renewable Energy Schemes|University of Pennsylvania|English|62|62|4.8
+theropods-birds|Paleontology: Theropod Dinosaurs and the Origin of Birds|University of Alberta|English|324|324|4.9
+corporatestrategy|Corporate Strategy|UCL School of Management|English|144|144|4.9
+getting-started-with-essay-writing|Getting Started with Essay Writing|University of California, Irvine|English|691|698|4.7
+actualizacion-manejo-diabetes-tipo-2|Actualización en el manejo del paciente con diabetes mellitus tipo 2|Universidad Nacional Autónoma de México|Spanish|251|253|4.8
+mastering-final-cut-pro|Mastering Final Cut Pro|LearnQuest|English|37|37|4.5
+removing-barriers-to-change|Removing Barriers to Change|University of Pennsylvania|English|8|8|5.0
+tricky-american-english-pronunciation|Tricky American English Pronunciation|University of California, Irvine|English|601|606|4.7
+uva-darden-agile-team-management|Managing an Agile Team|University of Virginia|English|192|192|4.7
+international-law-in-action|International Law in Action: A Guide to the International Courts and Tribunals in The Hague|Universiteit Leiden|English|176|177|4.8
+competencias-lab|Competencias Laborales: Perfiles, Evaluación y Capacitación.|Universidad de Chile|Spanish|87|87|4.3
+getting-started-with-tensor-flow2|Getting started with TensorFlow 2|Imperial College London|English|51|51|4.9
+geopolitics-europe|Geopolitics of Europe|Sciences Po|English|83|83|3.7
+truthinourbones-osteoarchaeology-archaeology|Osteoarchaeology: The Truth in Our Bones|Universiteit Leiden|English|124|124|4.6
+pca-machine-learning|Mathematics for Machine Learning: PCA|Imperial College London|English|521|522|3.4
+object-oriented-java|Object Oriented Programming in Java|University of California San Diego|English|1185|1190|4.7
+embedded-software-hardware|Embedded Software and Hardware Architecture|University of Colorado Boulder|English|57|57|4.4
+memoir-reader-relationship|Memoir and Personal Essay: Managing Your Relationship with the Reader|Wesleyan University|English|58|58|4.3
+mathematics-and-python|Математика и Python для анализа данных|Moscow Institute of Physics and Technology|Russian|806|832|4.6
+aulaconstructivista|Hacia una práctica constructivista en el aula|Pontificia Universidad Católica de Chile|Spanish|569|569|4.9
+uva-darden-agile-testing|Hypothesis-Driven Development|University of Virginia|English|105|106|4.5
+accounting-data-analytics-python|Accounting Data Analytics with Python|University of Illinois at Urbana-Champaign|English|8|8|3.5
+spectroscopy|Introduction to Molecular Spectroscopy|University of Manchester   |English|408|408|4.6
+managing-as-a-coach|Managing as a Coach|University of California, Davis|English|281|282|4.7

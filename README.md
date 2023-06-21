@@ -80,7 +80,7 @@ Agradecemos todas las contribuciones y mejoras que puedas aportar a este proyect
 
 <p align="center">
 
-https://app.powerbi.com/view?r=eyJrIjoiZjAwOGE1MTQtYWMzNS00ZWVhLWE4M2QtZjQzOTM1MDNhN2ZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionf55784cb655525052376
+<iframe title="PI_DA_02_ILB" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjAwOGE1MTQtYWMzNS00ZWVhLWE4M2QtZjQzOTM1MDNhN2ZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionf55784cb655525052376" frameborder="0" allowFullScreen="true"></iframe>
 
 </p>
 

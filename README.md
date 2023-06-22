@@ -63,7 +63,7 @@ DATASET 2: Datos de edX
 DATASET 3: Datos de Udemy
 </p>
 
-Además, se requiere conocimiento en lenguaje de programación (por ejemplo, Python) y herramientas de análisis de datos (por ejemplo, Power BI).
+Además, se requiere conocimiento en lenguaje de programación Python y herramientas de análisis de datos Power BI.
 
 ## Contribuciones
 
